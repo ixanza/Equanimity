@@ -279,6 +279,11 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Inns : Enabled
   - Player Houses : Enabled
 
+### LOTD : The Curator's Tracker (Preference)
+- Settings → Mod Settings : 
+  - Live Another Life Config : Pick according to the start you decide
+  - Helgen Reborn Config : Pick according to whichever option you choose in the quest. You don't have to do it now
+
 ### Lucien (Preference)
 
 - If you use a player name thats in this selection, Lucien will call you by this name
