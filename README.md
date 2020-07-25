@@ -183,7 +183,7 @@ Upon entering the game you will be greeted with a notification from the Relic No
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Mods with (Preference) next to their name is solely preferential and do not affect the balance of the game.
+Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
 
 ### A Matter of Time (Preference)
 
