@@ -201,19 +201,19 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Sun Damage : Slight Damage
   - Specialised Sun Damage : Exempt at Stage 1
 - Miscellaneous Options :
-  - Abilities have Recharge Timers : Tick
-  - Vampire Drain will affect Satiation : Tick
-  - Enthralled Victims Change Clothing : Untick
+  - Abilities have Recharge Timers : Enabled
+  - Vampire Drain will affect Satiation : Enabled
+  - Enthralled Victims Change Clothing : Disabled
   
 ### Complete Crafting
 
 - Recipe Display → Crafting Menu Filters :
-  - Breakdown Recipes - Tick
+  - Breakdown Recipes - Enabled
 - Recipe Display → Additional Display Options :
-  - Craft Daedric Items Only at Night: Tick
+  - Craft Daedric Items Only at Night: Enabled
 - Crafting Options → Additional Items :
-  - Artifact Replicas : Tick
-  - Matching Set Circlets : Tick
+  - Artifact Replicas : Enabled
+  - Matching Set Circlets : Enabled
 - Learning & XP → Smithing Experience :
   - Tanning Rack : 0.1
   - Smelter : 0.1
@@ -223,17 +223,17 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Firewood per chop : 6
   - Max per activation : 1
 - Tempering and Enchanting → Variable Tempering Strength :
-  - Enable Tempering Adjustments : Tick
+  - Enable Tempering Adjustments : Enabled
 - Tempering and Enchanting → Variable Enchantment Strength :
-  - Enable Enchanting Adjustments : Tick
+  - Enable Enchanting Adjustments : Enabled
 
 ### CGO
 
 - Unlocked Grip :
   - Hotkey : (Preference)
-  - NPCs Change Grip : Unticked
+  - NPCs Change Grip : Disabled
 - Dodge Roll :
-  - NPCs Dodge : Unticked
+  - NPCs Dodge : Disabled
 - Leaning (Preference) :
   - Lean Multiplier (1st Person) : X0.5
   - Lean Multiplier (3rd Person) : X0.5
@@ -250,11 +250,11 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 ### Extended UI (Preference)
 
 - Stats Menu
-  - Hide Legendary UI Elements - Tick
-  - Show attribute modifiers - Tick
-  - Show skill modifiers - Tick
+  - Hide Legendary UI Elements - Enabled
+  - Show attribute modifiers - Enabled
+  - Show skill modifiers - Enabled
 - Console
-  - Fullscreen : Tick
+  - Fullscreen : Enabled
 
 ### Follower Framework
 
@@ -281,12 +281,12 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 
 ### KS Dragon Overhaul 2
 
-- Toggle Mod : Tick
+- Toggle Mod : Enabled
 - Combat →  Kill Move Settings :
-  - Use Modified : Tick
+  - Use Modified : Enabled
 - Combat → Other Settings
-  - Recoil/Physical Effect : Tick
-  - Timed Stagger : Tick
+  - Recoil/Physical Effect : Enabled
+  - Timed Stagger : Enabled
 - Difficulty → Preset List
   - List : Slightly
 
