@@ -247,7 +247,7 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 
 - If you use a player name thats in this selection, Lucien will call you by this name
 
-### MoreHUD (Preference
+### MoreHUD (Preference)
 
 - Set this up however you like. There are some default options alredy tweaked
 
