@@ -30,4 +30,3 @@ Example file names:
 
 - `[Nord](f) - Alice`
 - `[Darkelf](m) - Bob`
-
