@@ -217,6 +217,7 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 
 - Unlocked Grip :
   - Hotkey : (Preference)
+  - NPCs Change Grip : Unticked
 - Dodge Roll :
   - NPCs Dodge : Unticked
 - Leaning (Preference) : 
