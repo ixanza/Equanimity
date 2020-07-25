@@ -190,6 +190,42 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Abilities have Recharge Timers : Tick
   - Vampire Drain will affect Satiation : Tick
   - Enthralled Victims Change Clothing : Untick
+  
+### Complete Crafting
+
+- Recipe Display → Crafting Menu Filters :
+  - Breakdown Recipes - Tick
+- Recipe Display → Additional Display Options :
+  - Craft Daedric Items Only at Night: Tick
+- Crafting Options → Additional Items :
+  - Artifact Replicas : Tick
+  - Matching Set Circlets : Tick
+- Learning & XP → Smithing Experience :
+  - Tanning Rack : 0.1
+  - Smelter : 0.1
+ Mining  and Materials → Mining :
+  - Mining Presets : FASTER MINING
+- Mining  and Materials → Firewood :
+  - Firewood per chop : 6
+  - Max per activation : 1
+- Tempering and Enchanting → Variable Tempering Strength : 
+  - Enable Tempering Adjustments : Tick
+- Tempering and Enchanting → Variable Enchantment Strength : 
+  - Enable Enchanting Adjustments : Tick
+
+### CGO
+
+- Unlocked Grip :
+  - Hotkey : (Preference)
+- Dodge Roll :
+  - NPCs Dodge : Unticked
+- Leaning (Preference) : 
+  - Lean Multiplier (1st Person) : X0.5
+  - Lean Multiplier (3rd Person) : X0.5
+- Camera Noise (Preference) :
+  - Camera Noise Mult (1st Person) : X0.0
+- Dual Wield Blocking :
+  - Hotkey : (Preference)
 
 ### Enhanced Blood (Preference)
 - Screen Blood:
@@ -261,13 +297,6 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 - General → Item List :
   - Font Size : Small
   - Category Icon Theme : CELTIC
-- Advanced → SWF Version Checking :
-  - Map Menu : Disabled
-  - Favorites Menu : Disabled
-  - Inventory Menu : Disabled
-  - Barter Menu : Disabled
-  - Container Menu : Disabled
-  - Crafting Menu : Disabled
 
 ### Timing is Everything (Preference)
 
@@ -329,7 +358,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Total, jdsmitht2816, SirJesto for helping me out with a lot of the conflict resolution
+- Total, jdsmith2816, SirJesto for helping me out with a lot of the conflict resolution
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
