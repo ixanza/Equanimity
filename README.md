@@ -18,7 +18,7 @@
     - [Post-Installation](#post-installation)
       - [Copy Game Folder Files](#copy-game-folder-files)
       - [Getting an ENB](#getting-an-enb)
-        - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
+      - [ENB Notes](#enb-notes)
   - [How to start up Equanimity](#how-to-start-up-equanimity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
@@ -158,9 +158,13 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 This list uses Obsidian Weathers Weathers so you want to get an ENB that is compatible.
 
+I personally recomend [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796) but there are other solid choices like [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543),[Nyclix ENB](https://www.nexusmods.com/skyrimspecialedition/mods/3352) and [Skyrim SE Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
+
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory.
 
-##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
+#### ENB Notes
+
+- Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
 
 ## How to start up Equanimity
 
@@ -178,7 +182,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Creating your Character
 
-Upon entering the game you will be greeted with a notification from the Relic Notifications Mod. Hit OK and wait for another pop-up from it, usually takes about a minute.  Once it's done you can proceed with creating your character. Once you've named your character wait for all the messages in the top left to fade away then open your inventory and close it. This will start up Requiem. Once Requiem has finished its installation you may proceed with the next section. While creating your character you may receive a pop up asking you if you want to scan now or later from Relic Notifications. Hit scan now to proceed.
+ Once you've created and named your character wait for all the messages in the top left to fade away then open your inventory and close it. You will be greeted with a notification from The Curator's Companion. Hit OK and wait for another pop-up from it, usually takes about a minute and pick either Scan Now or Scan Later (this makes no difference on a new game).
 
 ## In-Game MCM Options
 
