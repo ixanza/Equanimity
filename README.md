@@ -1,9 +1,6 @@
-# Serenity
+# Equanimity
 
-![unique-installs](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Fmetrics%2Fbadge%2Fserenity%2Funique_installs_badge.json)  
-![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
-
-- [Serenity](#serenity)
+- [Equanimity](#equanimity)
   - [Preamble](#preamble)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
@@ -22,7 +19,7 @@
       - [Copy Game Folder Files](#copy-game-folder-files)
       - [Getting an ENB](#getting-an-enb)
         - [Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders](#note--please-check-that-vsync-is-set-to-disable-in-enblocalini-otherwise-you-will-be-stuck-compiling-shaders)
-  - [How to start up Serenity](#how-to-start-up-serenity)
+  - [How to start up Equanimity](#how-to-start-up-equanimity)
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -30,7 +27,6 @@
     - [Follower Framework](#follower-framework)
     - [Honed Metal](#honed-metal)
     - [LOTD Settings](#lotd-settings)
-    - [Requiem](#requiem)
     - [Quick Light](#quick-light)
     - [SkyUI](#skyui)
     - [VioLens](#violens)
@@ -45,14 +41,23 @@
 
 ## Preamble
 
-![serenity-banner](cover/Cover.png)
+Equanimity is a list focusing on a different style of gameplay. It consists of multiple mods enhancing different aspects of the game for a unique feel. Equanimity uses mods such as: 
+- Adamant and Mysticism for perks and magic
+- Combat Gameplay Overhaul, Wildcat, Ultimate Combat for combat
+- OMEGA Updated, KS Dragon Overhaul for encounter levels and zones
+- True Unleveled Skyrim to distribute perks to enemies
+- SkyREM RaE for races
+- Curse of the Firmament for standing stones
+- Better Vampires and Growl for vampirism  and lycantrophy respectively
 
-Serenity is my goal of having a vanilla Requiem experience in Skyrim Special Edition. The aim is to provide the feeling of requiem with the stability of Skyrim Special Edition as well as a slew of bug fixes, graphical improvements and Legacy of the Dragonborn integration. This is an ongoing project and changes will definitely be made along the way but the aim is to not stray away from the core Requiem experience.
-
-Serenity uses the Requiem 3.4 and has some armor mods supported by the Requiem Out-fitted mod and contains DLC sized mods which are
-
-- Wyrmstooth (with requiem patch from lilmoefow)
-- Legacy of the Dragonborn (with Requiem Patch and Museum Integration)
+Equanimity comes with a list of land expansions and quest expansions such as :
+- Legacy of the Dragonborn
+- Interesting NPCS
+- Vigilant
+- Wyrmstooth
+- Wheels of Lull
+- Helgen Reborn
+- Project AHO
 
 ## Installation
 
@@ -99,7 +104,7 @@ Start the game and exit once you're in the main menu.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Click on Browse Modlists, and download Serenity from the gallery. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Serenity`). The downloads path should automatically fill in the installation path.
+Head to [releases](https://github.com/ixanza/Equanimity/releases) and grab the latest .wabbajack file from there. Once downloaded double click the .wabbajack file to open up the installer. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in the installation path.
 
 #### Downloading and Installing
 
@@ -143,7 +148,7 @@ Once you found a preset you like. Download it and extract the enbseries folder, 
 
 ##### Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders
 
-## How to start up Serenity
+## How to start up Equanimity
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -164,11 +169,39 @@ Upon entering the game you will be greeted with a notification from the Relic No
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
+Mods with (Preference) next to their name is solely preferential and do not affect the balance of the game.
 
-### A Matter of Time
+### A Matter of Time (Preference)
 
 - Presets :
   - Load user settings
+
+### Better Vampires
+
+- Hotkeys :
+  - Set these up as you like. I personally only put nightvision on H
+- General Options :
+  - Rank Progression : Normal - Necks Bitten
+  - Stage Hated : Stage 4 Hated
+  - Feeding Animation : Bedroll feeding Animation
+  - Sun Damage : Slight Damage
+  - Specialised Sun Damage : Exempt at Stage 1
+- Miscellaneous Options :
+  - Abilities have Recharge Timers : Tick
+  - Vampire Drain will affect Satiation : Tick
+  - Enthralled Victims Change Clothing : Untick
+
+### Enhanced Blood (Preference)
+- Screen Blood:
+  - Enabled : Untick
+
+### Extended UI (Preference)
+- Stats Menu
+  - Hide Legendary UI Elements - Tick
+  - Show attribute modifiers - Tick
+  - Show skill modifiers - Tick
+- Console
+  - Fullscreen : Tick
 
 ### Follower Framework
 
@@ -188,7 +221,21 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Enchanting Time : 0.5
   - Recharging Time : 0.0
   - Common Materials Acquisition Time : 0.02
-  
+
+### Immersive HUD (Preference)
+
+- Set this up however you like. There are some default options already tweaked
+
+### KS Dragon Overhaul 2
+- Toggle Mod : Tick
+- Combat →  Kill Move Settings 
+  - Use Modified : Tick
+- Combat → Other Settings
+  - Recoil/Physical Effect : Tick
+  - Timed Stagger : Tick
+- Difficulty → Preset List
+  - List : Slightly
+
 ### LOTD Settings
 
 - LOTD Settings → General → Shippment Crate Locations :
@@ -196,14 +243,14 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Inns : Enabled
   - Player Houses : Enabled
 
-### Requiem
+### Lucien (Preference)
 
-- Combat :
-  - No non-hostile Bull Rush/Trample : Enabled
-- Atmosphere :
-  - Heartbeat threshold : 10%
-  - Killmove health threshold : 0%
-  
+- If you use a player name thats in this selection, Lucien will call you by this name
+
+### MoreHUD (Preference
+
+- Set this up however you like. There are some default options alredy tweaked
+
 ### Quick Light
 
 - Quick Light → Brightness :
@@ -222,10 +269,44 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
+### Timing is Everything (Preference)
+
+- Set this up however you like or load a pre-configured preset
+- Note if loading the pre-configured preset to follow the steps below
+- Extra Options → Presets
+  - Load Preset
+- Then cycle through DLC Quests, Other Quests, and Extra options again and load the preset a second time
+
+### Ultimate Combat
+
+- General → Timed Block : 
+  - Effective Time : 0.00s
+  - Blur Strength : 0.0s
+- General → Game Balance Settings : 
+  - Speed Bonus : Disabled
+- General → Others :
+  - Swing Effect : Disabled
+- General → Stagger : 
+  - Enemy Pose : Disabled
+  - Player Stagger : Disabled
+  - NPC's Bow Poise : 0.00s
+  - Player Bow Poise : 0.00s
+- General → Locational : 
+  - Headshot Damage Mult : 0.0
+  - Headshot Message : Disabled
+  - Locational Damage Sound : Disabled
+  - Locational Damage Effect : Disabled
+- NPC Settings → Giant : 
+  - Max HP Scale : Max HP 1.0
+- NPC Settings → Dwarven Centurion : 
+  - HP Mult : HP 1.0
+- NPC Settings → Dragon Priest : 
+  - HP Mult : HP 1.0
+
 ### VioLens
 
 - Profile System → Menu Settings :
-  - Load : SERENITY
+  - Load : VIOLENS CONFIG
 
 ## FAQ
 
@@ -248,13 +329,13 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- lilmoefow - for the requiem patches over on the requiem discord
+- Total, jdsmitht2816, SirJesto for helping me out with a lot of the conflict resolution
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/ixanza/serenity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/ixanza/equanimity/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Contributing
 
