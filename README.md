@@ -23,12 +23,24 @@
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
-    - [A Matter of Time](#a-matter-of-time)
+    - [A Matter of Time (Preference)](#a-matter-of-time-preference)
+    - [Better Vampires](#better-vampires)
+    - [Complete Crafting](#complete-crafting)
+    - [CGO](#cgo)
+    - [Enhanced Blood (Preference)](#enhanced-blood-preference)
+    - [Extended UI (Preference)](#extended-ui-preference)
     - [Follower Framework](#follower-framework)
     - [Honed Metal](#honed-metal)
+    - [Immersive HUD (Preference)](#immersive-hud-preference)
+    - [KS Dragon Overhaul 2](#ks-dragon-overhaul-2)
     - [LOTD Settings](#lotd-settings)
+    - [LOTD : The Curator's Tracker (Preference)](#lotd--the-curators-tracker-preference)
+    - [Lucien (Preference)](#lucien-preference)
+    - [MoreHUD (Preference)](#morehud-preference)
     - [Quick Light](#quick-light)
     - [SkyUI](#skyui)
+    - [Timing is Everything (Preference)](#timing-is-everything-preference)
+    - [Ultimate Combat](#ultimate-combat)
     - [VioLens](#violens)
   - [FAQ](#faq)
     - [Ultrawide Options](#ultrawide-options)
@@ -41,7 +53,8 @@
 
 ## Preamble
 
-Equanimity is a list focusing on a different style of gameplay. It consists of multiple mods enhancing different aspects of the game for a unique feel. Equanimity uses mods such as: 
+Equanimity is a list focusing on a different style of gameplay. It consists of multiple mods enhancing different aspects of the game for a unique feel. Equanimity uses mods such as:
+
 - Adamant and Mysticism for perks and magic
 - Combat Gameplay Overhaul, Wildcat, Ultimate Combat for combat
 - OMEGA Updated, KS Dragon Overhaul for encounter levels and zones
@@ -51,6 +64,7 @@ Equanimity is a list focusing on a different style of gameplay. It consists of m
 - Better Vampires and Growl for vampirism  and lycantrophy respectively
 
 Equanimity comes with a list of land expansions and quest expansions such as :
+
 - Legacy of the Dragonborn
 - Interesting NPCS
 - Vigilant
@@ -208,9 +222,9 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 - Mining  and Materials → Firewood :
   - Firewood per chop : 6
   - Max per activation : 1
-- Tempering and Enchanting → Variable Tempering Strength : 
+- Tempering and Enchanting → Variable Tempering Strength :
   - Enable Tempering Adjustments : Tick
-- Tempering and Enchanting → Variable Enchantment Strength : 
+- Tempering and Enchanting → Variable Enchantment Strength :
   - Enable Enchanting Adjustments : Tick
 
 ### CGO
@@ -220,7 +234,7 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - NPCs Change Grip : Unticked
 - Dodge Roll :
   - NPCs Dodge : Unticked
-- Leaning (Preference) : 
+- Leaning (Preference) :
   - Lean Multiplier (1st Person) : X0.5
   - Lean Multiplier (3rd Person) : X0.5
 - Camera Noise (Preference) :
@@ -229,10 +243,12 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Hotkey : (Preference)
 
 ### Enhanced Blood (Preference)
+
 - Screen Blood:
   - Enabled : Untick
 
 ### Extended UI (Preference)
+
 - Stats Menu
   - Hide Legendary UI Elements - Tick
   - Show attribute modifiers - Tick
@@ -264,8 +280,9 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 - Set this up however you like. There are some default options already tweaked
 
 ### KS Dragon Overhaul 2
+
 - Toggle Mod : Tick
-- Combat →  Kill Move Settings 
+- Combat →  Kill Move Settings :
   - Use Modified : Tick
 - Combat → Other Settings
   - Recoil/Physical Effect : Tick
@@ -281,9 +298,10 @@ Mods with (Preference) next to their name is solely preferential and do not affe
   - Player Houses : Enabled
 
 ### LOTD : The Curator's Tracker (Preference)
-- Settings → Mod Settings : 
+
+- Settings → Mod Settings :
   - Live Another Life Config : Pick according to the start you decide
-  - Helgen Reborn Config : Pick according to whichever option you choose in the quest. You don't have to do it now
+  - Helgen Reborn Config : Pick according to whichever option you choose in the quest. You don't have to do it now.
 
 ### Lucien (Preference)
 
@@ -314,28 +332,28 @@ Mods with (Preference) next to their name is solely preferential and do not affe
 
 ### Ultimate Combat
 
-- General → Timed Block : 
+- General → Timed Block :
   - Effective Time : 0.00s
   - Blur Strength : 0.0s
-- General → Game Balance Settings : 
+- General → Game Balance Settings :
   - Speed Bonus : Disabled
 - General → Others :
   - Swing Effect : Disabled
-- General → Stagger : 
+- General → Stagger :
   - Enemy Pose : Disabled
   - Player Stagger : Disabled
   - NPC's Bow Poise : 0.00s
   - Player Bow Poise : 0.00s
-- General → Locational : 
+- General → Locational :
   - Headshot Damage Mult : 0.0
   - Headshot Message : Disabled
   - Locational Damage Sound : Disabled
   - Locational Damage Effect : Disabled
-- NPC Settings → Giant : 
+- NPC Settings → Giant :
   - Max HP Scale : Max HP 1.0
-- NPC Settings → Dwarven Centurion : 
+- NPC Settings → Dwarven Centurion :
   - HP Mult : HP 1.0
-- NPC Settings → Dragon Priest : 
+- NPC Settings → Dragon Priest :
   - HP Mult : HP 1.0
 
 ### VioLens
