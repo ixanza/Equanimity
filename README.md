@@ -192,7 +192,7 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ### Better Vampires
 
-- Hotkeys :
+- Hotkeys (Preference) :
   - Set these up as you like. I personally only put nightvision on H
 - General Options :
   - Rank Progression : Normal - Necks Bitten
