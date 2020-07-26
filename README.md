@@ -59,9 +59,10 @@ Equanimity is a list focusing on a different style of gameplay. It consists of m
 - Combat Gameplay Overhaul, Wildcat, Ultimate Combat for combat
 - OMEGA Updated, KS Dragon Overhaul for encounter levels and zones
 - True Unleveled Skyrim to distribute perks to enemies
-- SkyREM RaE for races
-- Curse of the Firmament for standing stones
+- SkyREM RAE for races
+- Mundus for standing stones
 - Better Vampires and Growl for vampirism  and lycantrophy respectively
+- Wintersun for religion
 
 Equanimity comes with a list of land expansions and quest expansions such as :
 
