@@ -60,6 +60,7 @@
 
 - .NET Script Framework
 - Address Library for SKSE Plugins
+- Better Stealing
 - Bug Fixes SSE
 - ConsoleUtilSSE
 - Copy and Paste in Console
@@ -69,6 +70,7 @@
 - I'm Walkin' Here
 - Keyboard Shortcuts Fix
 - PrivateProfileRedirector SE - Faster game start (INI file cacher)
+- Remember Lockpicking Angle - Updated
 - Skyrim Skill Uncapper
 - SSE Engine Fixes (skse64 plugin)
 - Stay At The System Page - Updated
@@ -83,6 +85,8 @@
 
 ## Bug Fixes
 
+- Rude Imperial Soldier Escort Fix
+- Dwemer Gates Don't Reset
 - GIST - Genuinely Intelligent Soul Trap SE
 - Don't Talk With Your Mouth Full
 - Bard Instrumentals Mostly - Sing Rarely
@@ -153,13 +157,20 @@
 ## Modified and Expanded Quests
 
 - Alternate Start - Live Another Life - SSE
+- Bounty Preview
+- Bring Meeko to Lod
 - Even Better Quest Objectives SE
+- Finding Derkeethus
+- Finding Helgi and Laelette
+- Finding Vehlok Sain
 - Helgen Reborn
 - Gildergreen Regrown
 - Missives
 - Missives - Worldspace Additions
 - Obscure's College of Winterhold
 - Obscure's College of Winterhold Addons
+- Save the Icerunner
+- Stackable Stones of Barenziah with Optional Quest Markers
 - The Choice is Yours
 - The Paarthurnax Dilemma
 - All Thieves Guild Jobs Concurrently
@@ -522,6 +533,7 @@
 - Serana Dialogue Edit - Skyrim Special Edition
 - SkyTEST - Realistic Animals and Predators SE
 - SkyTEST Integration Project SE
+- Protect Your People
 - Project AHO - Skytest Patch (Fix Invisible Mudcrabs) - ESPFE
 - SkyTEST Appropriate Aggression
 - Critters Aint Snitches
@@ -611,7 +623,6 @@
 - Adamant - A Perk Overhaul
 - Better Vampires 8.5 SE
 - Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)
-- Curse of the Firmament
 - Fast Travel Cost
 - Equipment Durability System
 - Growl - Werebeasts of Skyrim
@@ -622,6 +633,7 @@
 - OMEGA Updated AIO
 - MorrowLoot Ultimate
 - Mysticism - A Magic Overhaul
+- Mundus - A Standing Stone Overhaul
 - Ocatos Recital and Spell Twine
 - Race Abilities Enhanced (SkyRem - Rae)
 - Shout - A Complete Immersive and Dynamic Overhaul of all Shouts
