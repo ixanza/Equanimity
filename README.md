@@ -147,13 +147,17 @@ This can happen when I update the modlist. Check if a new update is available an
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
+**Virus detected**:
+
+Equanimity ships with version 2.3 of Mod Organizer 2 that has a false positive for the file usvsproxy.exe. Current solution is to allow this threat and re-run the installation. This is not a real virus and comes from the new release of Mod Organizer 2.
+
 ### Post-Installation
 
 #### Copy Game Folder Files
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy the all of the files from the `Installation folder/Game Folder Files` directory into your game folder.
 
 #### Getting an ENB
 
