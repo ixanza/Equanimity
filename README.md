@@ -149,7 +149,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Virus detected**:
 
-Equanimity ships with version 2.3 of Mod Organizer 2 that has a false positive for the file usvsproxy.exe. Current solution is to allow this threat and re-run the installation. This is not a real virus and comes from the new release of Mod Organizer 2.
+Equanimity ships with version 2.3 of Mod Organizer 2 that has a false positive for the file usvsproxy.exe. Current solution is to allow this threat and re-run the installation. This is not a real virus and will not cause harm to your computer.
 
 ### Post-Installation
 
