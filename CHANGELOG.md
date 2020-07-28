@@ -2,7 +2,7 @@
 
 ## 1.1.1
 
-### Released at : `27/07/2020`
+### Released at : `28/07/2020`
 
 ### Added
 
