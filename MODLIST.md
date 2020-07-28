@@ -237,7 +237,7 @@
 - CC's Enhanced Ore Veins SSE - 2K - 7.2
 - LeanWolf's Better-Shaped Talos with Greatsword
 - BLOODSTONE CHALICE REBORN
--  Dark Brotherhood Tenets Restored - Standard Edition
+- Dark Brotherhood Tenets Restored - Standard Edition
 - Dressed Hearthfire Doll
 - EASIER LOCKPICKING - Without Cheating - Nordic Retexture
 - Forgotten Retex Project
@@ -556,6 +556,7 @@
 - aMidianBorn Iron and Banded Armor
 - aMidianBorn Scaled Armor
 - aMidianBorn stormcloak officer armour
+- Ancient aMidianBorn Dwarven Metal Armory
 - Apophysis Dragon Priest Masks SE
 - LeanWolf's Better-Shaped Weapons - All in One Installer
 - Elven Weapons for Silence SE
