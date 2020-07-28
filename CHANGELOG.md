@@ -23,7 +23,8 @@
 ### Tweaks
 
 - Timescale defaults to 10
-- Max Actors in combat changed to 50
+- Max Actors in complex scene changed to 50
+- Max Actors in combat changed to 30
 - Various INI Tweaks, Game should look somewhat better now hopefully without too much performance loss
 
 ## 1.1.0
