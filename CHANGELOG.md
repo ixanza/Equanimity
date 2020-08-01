@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.1
+
+### Released at : `01/08/2020`
+
+### Updated
+
+Vigilant v1.5.2
+
 ## 1.2.0
 
 ### Released at : `01/08/2020`
