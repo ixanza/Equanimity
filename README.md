@@ -56,8 +56,8 @@
 Equanimity is a list focusing on a different style of gameplay. It consists of multiple mods enhancing different aspects of the game for a unique feel. Equanimity uses mods such as:
 
 - Adamant and Mysticism for perks and magic
-- Combat Gameplay Overhaul, Wildcat, Ultimate Combat for combat
-- OMEGA Updated, KS Dragon Overhaul for encounter levels and zones
+- Combat Gameplay Overhaul, Blade and Blunt, Ultimate Combat for combat
+- OMEGA Updated, KS Dragon Overhaul, Skyrim Revamped, Arena for encounter levels and zones
 - True Unleveled Skyrim to distribute perks to enemies
 - SkyREM RAE for races
 - Mundus for standing stones
