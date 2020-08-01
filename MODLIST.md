@@ -171,6 +171,7 @@
 - Obscure's College of Winterhold Addons
 - Save the Icerunner
 - Stackable Stones of Barenziah with Optional Quest Markers
+- USSEP bugfix incorporation to SSoB
 - The Choice is Yours
 - The Paarthurnax Dilemma
 - All Thieves Guild Jobs Concurrently
@@ -185,6 +186,7 @@
 - Legacy of the Dragonborn - Cleaner Display Glass
 - Fossil Mining - with Legacy support
 - More DBM Shipping Crates
+- Replacer for banners - Legacy of the Dragonborn SSE
 - LOTD Museum Shipment Crates Patch (Unofficial)
 
 ## Weathers
@@ -353,6 +355,7 @@
 - Alternate Summoning Visuals
 - Enhanced Blood Textures
 - Improved Weapon Impact EFFECTS Correct Metal SE
+- Improved Weapon Impact EFFECTS Correct Metal SE - Immersive Sounds Patch
 
 ## Expanded City, Towns and Villlages
 
@@ -371,6 +374,7 @@
 ## Creature Retextures
 
 - Ancient Dwemer Metal
+- Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn
 - RUSTIC DRAGONS - Special Edition
 - Alduin's Imprefvicticious and Chapper's Demonic Retexture mashup
 - DRAGON PRIEST
@@ -425,12 +429,15 @@
 - Immersive College NPCs
 - INIGO
 - Interesting NPCs SE (3DNPC)
+- Interesting NPCs Imperious Patch
 - Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted
 - Cuyima Interesting NPCs SE
 - Interesting NPCs Zora Customizer SSE
 - Lucien - Immersive Fully Voiced Male Follower
 - M'rissi's Tails of Troubles SE
 - M'rissi's Tails of Troubles SE - Delayed Start
+- Song of the Green - Auri
+- Song of the Green - Auri Lenka Replacer
 
 ## Beards, Brows, and Hair
 
@@ -452,6 +459,9 @@
 
 ## Scars, Tints, and Warpaints
 
+- Community Overlays 01
+- Community Overlays 02
+- Community Overlays 03
 - Northborn Scars
 - PAINTERLY - a High Res Vanilla Warpaint Retexture
 - Skin Feature Overlays SE
@@ -459,6 +469,8 @@
 
 ## Animations & Skeleton
 
+- cookeh's conditional and random animations - CCARA DAR
+- EVG Conditional Idles
 - Dragon Animation Replace in Special Edition
 - CBPC - CBP Physics with Collisions
 - Immersive CBP Config
@@ -536,6 +548,11 @@
 - Protect Your People
 - Project AHO - Skytest Patch (Fix Invisible Mudcrabs) - ESPFE
 - SkyTEST Appropriate Aggression
+- SkyTEST - Mihail's gray farm goose SE
+- SkyTEST - Better sheep SE
+- SkyTEST - Mihail's chick replacer and better idle sound SE
+- SkyTEST - HD Horkers SE
+- SkyTEST - Bellyaches HD collection SE
 - Critters Aint Snitches
 
 ## NPC Hair Retextures
@@ -624,8 +641,10 @@
 - Adamant - A Perk Overhaul
 - Better Vampires 8.5 SE
 - Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)
+- Class Overhaul Re-Imagined (SkyRem - Cori)
 - Fast Travel Cost
 - Equipment Durability System
+- Evolving Value Economy (SkyRem - Eve
 - Growl - Werebeasts of Skyrim
 - Harvestable Mammoth Skulls
 - Harvestable Hanging Taproots
@@ -656,8 +675,8 @@
 ## Combat And Enemies
 
 - Encounter Zones Unlocked SE
-- Wildcat - Combat of Skyrim
-- Ultimate Combat SE
+- Arena
+- Blade and Blunt
 - OBIS SE - Organized Bandits In Skyrim Special Edition
 - Unplayable Faction Armors - OBIS SE and OBIS Loot SE Patches
 - Skyrim Revamped - Complete Enemy Overhaul
