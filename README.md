@@ -119,17 +119,18 @@ Start the game and exit once you're in the main menu.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
-Head to [releases](https://github.com/ixanza/Equanimity/releases) and grab the latest .wabbajack file from there. Once downloaded double click the .wabbajack file to open up the installer. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in the installation path.
+Head to [releases](https://github.com/ixanza/Equanimity/releases) and grab the latest .wabbajack file from there.
 
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load the Modlist from Disk
-3. Adjust the download and installation paths
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
+2. Click Load Modlist from Disk
+3. Select the latest Equanimity.wabbajack downloaded in the Preparations step above
+4. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in the installation path.
+5. Click the start/play button.
+6. Wait for Wabbajack to finish
 
 ##### Problems with Wabbajack
 
