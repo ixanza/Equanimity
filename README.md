@@ -296,8 +296,6 @@ Mods or sections with (Preference) next to their name is solely preferential and
 - Combat → Other Settings
   - Recoil/Physical Effect : Enabled
   - Timed Stagger : Enabled
-- Difficulty → Preset List
-  - List : Slightly
 
 ### LOTD Settings
 
