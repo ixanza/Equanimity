@@ -128,7 +128,7 @@ The download and installation process can take a very long time depending on you
 1. Open Wabbajack
 2. Click Load Modlist from Disk
 3. Select the latest Equanimity.wabbajack downloaded in the Preparations step above
-4. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in following the installation path.
+4. Set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files or Desktop. Put it somewhere easy like `C:/Modlists/Equanimity`). The downloads path should automatically fill in following the installation path.
 5. Click the start/play button.
 6. Wait for Wabbajack to finish
 
@@ -291,7 +291,6 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ### KS Dragon Overhaul 2
 
-- Toggle Mod : Enabled
 - Combat →  Kill Move Settings :
   - Use Modified : Enabled
 - Combat → Other Settings
