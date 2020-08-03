@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.2.2
+
+### Released at : `03/08/2020`
+
+### Updated
+
+- Adamant v4.0.4
+- Nether's Follower Framework v2.6.8
+- Realistic Water Two v3.0.4
+
+### Fixes and  Tweaks
+
+- Addressed an issue where there were unkillable Dremoras added by VIGILANT due to TUS giving them KS Dragon Overhaul 2 Perks.
+- Regenerated TexGen/DynDOLOD for Realistic Water Two update.
+- Added a condition for starting VIGILANT. VIGILANT will now start at level 30. This is to prevent getting really OP daedric stuff really early.
+
 ## 1.2.1
 
 ### Released at : `01/08/2020`
