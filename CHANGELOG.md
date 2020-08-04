@@ -1,5 +1,33 @@
 # Changelog
 
+## 1.3.0
+
+### Released at : `04/08/2020`
+
+### This update requires a new save. You can pre-emptively download the New Game Plus mod and use it to save your character's level and stats to get a headstart if you like
+
+## Added
+
+- Dovah Sonaak - Dragon Priest Masks SE
+- JS Purses and Septims SE
+- New Game Plus
+- Skyrim Wayshrines, Immersive Fast Travel SE
+- Open Wayshrines Add-on for SWIFT - Skyrim Wayshrines Immersive Fast Travel
+- Zim's Dragon Improvements
+
+### Updated
+
+- High Poly Head v1.3
+- Inigo the Suave - High-Poly Replacer or Racemenu Preset v3.0
+- Mod Organizer 2 v2.3.1
+
+### Removed
+
+- Apophosis Dragon Priests Masks SE - Replaced with Dovah Sonaak - Dragon Priest Masks SE
+- Ennead - Septims - Replaced with JS Purses and Septims SE
+- KS Dragon Overhaul 2 - AI applies to all dragon-like creatures, breaking modded quests. Swapped to Zim's Dragon Improvements
+- Immersive Dragons - Not compatible with Zim's Dragon Improvements
+
 ## 1.2.2
 
 ### Released at : `03/08/2020`

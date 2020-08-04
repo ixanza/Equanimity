@@ -23,6 +23,7 @@
   - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
+    - [All Geared up Deriv](#all-geared-up-deriv)
     - [A Matter of Time (Preference)](#a-matter-of-time-preference)
     - [Better Vampires](#better-vampires)
     - [Complete Crafting](#complete-crafting)
@@ -38,6 +39,7 @@
     - [Lucien (Preference)](#lucien-preference)
     - [MoreHUD (Preference)](#morehud-preference)
     - [Quick Light](#quick-light)
+    - [Skyrim Wayshrines](#skyrim-wayshrines)
     - [SkyUI](#skyui)
     - [Timing is Everything (Preference)](#timing-is-everything-preference)
     - [Ultimate Combat](#ultimate-combat)
@@ -57,7 +59,7 @@ Equanimity is a list focusing on a different style of gameplay. It consists of m
 
 - Adamant and Mysticism for perks and magic
 - Combat Gameplay Overhaul, Blade and Blunt, Ultimate Combat for combat
-- OMEGA Updated, KS Dragon Overhaul, Skyrim Revamped, Arena for encounter levels and zones
+- OMEGA Updated, Zim's Dragon Improvements, Skyrim Revamped, Arena for encounter levels and zones
 - True Unleveled Skyrim to distribute perks to enemies
 - SkyREM RAE for races
 - Mundus for standing stones
@@ -195,6 +197,14 @@ Updating is like installing. You only have to make sure that you select the same
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
 
+### All Geared up Deriv
+
+- Player (Preference)
+  - Enable Mic Item Display : Disabled
+- NPC :
+  - Enable Weapons (Preference): Enabled
+  - Enable Misc Item Display : Disabled
+
 ### A Matter of Time (Preference)
 
 - Presets :
@@ -322,6 +332,10 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Quick Light → Brightness :
   - Brightness - Bright
+
+### Skyrim Wayshrines
+
+- Load Preset
 
 ### SkyUI
 
