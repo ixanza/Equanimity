@@ -33,7 +33,6 @@
     - [Follower Framework](#follower-framework)
     - [Honed Metal](#honed-metal)
     - [Immersive HUD (Preference)](#immersive-hud-preference)
-    - [KS Dragon Overhaul 2](#ks-dragon-overhaul-2)
     - [LOTD Settings](#lotd-settings)
     - [LOTD : The Curator's Tracker (Preference)](#lotd--the-curators-tracker-preference)
     - [Lucien (Preference)](#lucien-preference)
@@ -298,14 +297,6 @@ Mods or sections with (Preference) next to their name is solely preferential and
 ### Immersive HUD (Preference)
 
 - Set this up however you like. There are some default options already tweaked
-
-### KS Dragon Overhaul 2
-
-- Combat →  Kill Move Settings :
-  - Use Modified : Enabled
-- Combat → Other Settings
-  - Recoil/Physical Effect : Enabled
-  - Timed Stagger : Enabled
 
 ### LOTD Settings
 
