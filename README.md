@@ -38,7 +38,6 @@
     - [Lucien (Preference)](#lucien-preference)
     - [MoreHUD (Preference)](#morehud-preference)
     - [Quick Light](#quick-light)
-    - [Skyrim Wayshrines](#skyrim-wayshrines)
     - [SkyUI](#skyui)
     - [Timing is Everything (Preference)](#timing-is-everything-preference)
     - [Ultimate Combat](#ultimate-combat)
@@ -323,10 +322,6 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Quick Light → Brightness :
   - Brightness - Bright
-
-### Skyrim Wayshrines
-
-- Load Preset
 
 ### SkyUI
 
