@@ -33,26 +33,8 @@
     - [Better Vampires](#better-vampires)
     - [Complete Crafting](#complete-crafting)
     - [CGO](#cgo)
-<<<<<<< HEAD
     - [Trade and Barter](#trade-and-barter)
   - [Other Post Installation FAQ](#other-post-installation-faq)
-=======
-    - [Enhanced Blood (Preference)](#enhanced-blood-preference)
-    - [Extended UI (Preference)](#extended-ui-preference)
-    - [Follower Framework](#follower-framework)
-    - [Honed Metal](#honed-metal)
-    - [Immersive HUD (Preference)](#immersive-hud-preference)
-    - [LOTD Settings](#lotd-settings)
-    - [LOTD : The Curator's Tracker (Preference)](#lotd--the-curators-tracker-preference)
-    - [Lucien (Preference)](#lucien-preference)
-    - [MoreHUD (Preference)](#morehud-preference)
-    - [Quick Light](#quick-light)
-    - [SkyUI](#skyui)
-    - [Timing is Everything (Preference)](#timing-is-everything-preference)
-    - [Ultimate Combat](#ultimate-combat)
-    - [VioLens](#violens)
-  - [FAQ](#faq)
->>>>>>> ee0ae8bc6b5ca2b39a590896ad539bc4e6d651a4
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
@@ -64,7 +46,7 @@
 
 ## Preamble
 
-Equanimity is a list focusing on a different style of gameplay using the full Simonrim Suite with a lot of mod interaction to make the game feel very similar yet different. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on what is provided.
+Equanimity is a list focusing on a different style of gameplay based on the full Simonrim Suite with a lot of mod interaction to make the game feel very similar yet different. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on what is provided.
 
 ## Installation
 
@@ -183,11 +165,10 @@ Various other mods are used to flesh out all aspects of the game as well such as
 2. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycantrophy
 3. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) which adds new mage archetypes to the game
 4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
-5. [True Unleveled Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/18342) to distribute perks to NPCs, various high level NPCs are harder because of this
-6. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
-7. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
-8. [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767) enables new combat mechanics such as jump attacks, unlocked grip and a dodge function
-9. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
+5. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
+6. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
+7. [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767) enables new combat mechanics such as jump attacks, unlocked grip and a dodge function
+8. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
 
 ### Quest and Encounter Mods
 
@@ -258,15 +239,11 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
-<<<<<<< HEAD
 ### Audio and Weather
 
 [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
 
 ### New Equippables
-=======
-### LOTD Settings
->>>>>>> ee0ae8bc6b5ca2b39a590896ad539bc4e6d651a4
 
 [Amulets of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/487) adds new amulets as well as the ability to turn standing stone/artifact effects into necklaces and rings.
 
@@ -286,15 +263,11 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 [Nordic Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/7943) adds two new swords and a new armour set for male and females. There is full weight-slider support and the armour should be compatible with all body mods.
 
-<<<<<<< HEAD
 [Volkihar Knight - Vampire Armor](https://www.nexusmods.com/skyrimspecialedition/mods/4806) is a really cool Vampire armour set that can be crafted or found in the Volkihar Castle from progressing in the Dawnguard Questline
 
 [Sithis Armor](https://www.nexusmods.com/skyrimspecialedition/mods/39080) is an incredible armor set. The addon [Sithis Armor - Mastercraft Version](https://www.nexusmods.com/skyrimspecialedition/mods/39209/) adds additional sets, makes it easier to craft as well as adding CCOR compatibility.
 
 ## How to start up Equanimity
-=======
-### SkyUI
->>>>>>> ee0ae8bc6b5ca2b39a590896ad539bc4e6d651a4
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
