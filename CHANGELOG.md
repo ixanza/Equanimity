@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.0.1
+
+### Released at: `23/08/2020`
+
+### Updated
+
+- Legacy of the Dragonborn - The Curator's Companion v1.1.2
+
+### Fixed
+
+- Cells in Bleak Falls Barrow Revisited being weird because of Enhanced Lighting for ENB Overwriting it
+
 ## 2.0.0
 
 ### Released at : `22/08/2020`
