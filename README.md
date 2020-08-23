@@ -314,9 +314,9 @@ Mods or sections with (Preference) next to their name is solely preferential and
 - Learning & XP → Smithing Experience:
   - Tanning Rack: 0.1
   - Smelter: 0.1
- Mining  and Materials → Mining:
+- Mining and Materials → Mining:
   - Mining Presets: FASTER MINING
-- Mining  and Materials → Firewood:
+- Mining and Materials → Firewood:
   - Firewood per chop: 6
   - Max per activation: 1
 - Tempering and Enchanting → Variable Tempering Strength:
