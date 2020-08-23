@@ -301,8 +301,6 @@ Mods or sections with (Preference) next to their name is solely preferential and
   - Specialised Sun Damage: Exempt at Stage 1
 - Miscellaneous Options:
   - Abilities have Recharge Timers: Enabled
-  - Vampire Drain will affect Satiation: Enabled
-  - Enthralled Victims Change Clothing: Disabled
   
 ### Complete Crafting
 
