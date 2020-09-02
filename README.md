@@ -313,7 +313,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - Predator Vision - Hunter's Predator Vision: H
 - Simple Horsee - Horse Whistle: Y
 - The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
-- The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side stepping and rolling)
+- The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
 ### Ultrawide Options
 
