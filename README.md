@@ -18,6 +18,8 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [ENB](#enb)
+  - [How to start up Equanimity](#how-to-start-up-equanimity)
+  - [Updating](#updating)
   - [Noteworthy Mods](#noteworthy-mods)
     - [Gameplay](#gameplay)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
@@ -26,15 +28,10 @@
     - [Followers](#followers)
     - [Audio and Weather](#audio-and-weather)
     - [New Equippables](#new-equippables)
-  - [How to start up Equanimity](#how-to-start-up-equanimity)
-  - [Updating](#updating)
   - [Creating your Character](#creating-your-character)
   - [In-Game MCM Options](#in-game-mcm-options)
-    - [Better Vampires](#better-vampires)
-    - [Complete Crafting](#complete-crafting)
-    - [CGO](#cgo)
-    - [Trade and Barter](#trade-and-barter)
   - [Other Post Installation FAQ](#other-post-installation-faq)
+    - [Controlmap](#controlmap)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
@@ -146,6 +143,20 @@ A few other ENB suggestions are:
 **Note:**
 Please check that vsync is set to disable in enblocal.ini otherwise you will either be stuck compiling shaders or a black screen, or the menu with no options.
 
+## How to start up Equanimity
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+
+## Updating
+
+If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
 ## Noteworthy Mods
 
 ### Gameplay
@@ -169,6 +180,8 @@ Various other mods are used to flesh out all aspects of the game as well such as
 6. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
 7. [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767) enables new combat mechanics such as jump attacks, unlocked grip and a dodge function
 8. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
+9. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
+10. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
 
 ### Quest and Encounter Mods
 
@@ -180,7 +193,7 @@ Equanimity comes with a wide variety of new quest and encounters. A few are list
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
 
-[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendar and Daedra.
+[Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) adds a whole new set of quests, enemies, equipment to the game revolving around the Vigilants of Stendar and Daedra. Vigilant has been tweaked to only start at level 30 to prevent easy access to daedric equipment as well as prevent you from getting your ass kicked by bosses.
 
 [Wyrmstooth](https://archive.org/details/wyrmstooth1.18SSE) adds a new world and a series of quests involving killing a dragon for a bounty. It's a very well done quest mod.
 
@@ -267,20 +280,6 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 [Sithis Armor](https://www.nexusmods.com/skyrimspecialedition/mods/39080) is an incredible armor set. The addon [Sithis Armor - Mastercraft Version](https://www.nexusmods.com/skyrimspecialedition/mods/39209/) adds additional sets, makes it easier to craft as well as adding CCOR compatibility.
 
-## How to start up Equanimity
-
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
-
-## Updating
-
-If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
 ## Creating your Character
 
 Upon entering the game you will be greeted with a notification from the Curator's Companion. Hit OK and wait for another pop-up from it, usually takes about a minute. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
@@ -289,69 +288,30 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ## In-Game MCM Options
 
-### Better Vampires
-
-- Hotkeys (Preference):
-  - Set these up as you like. I personally only put nightvision on H
-- General Options:
-  - Rank Progression: Normal - Necks Bitten
-  - Stage Hated: Stage 4 Hated
-  - Feeding Animation: Bedroll feeding Animation
-  - Sun Damage: Slight Damage
-  - Specialised Sun Damage: Exempt at Stage 1
-- Miscellaneous Options:
-  - Abilities have Recharge Timers: Enabled
-  
-### Complete Crafting
-
-- Recipe Display → Crafting Menu Filters:
-  - Breakdown Recipes - Enabled
-- Recipe Display → Additional Display Options:
-  - Craft Daedric Items Only at Night: Enabled
-- Crafting Options → Additional Items:
-  - Artifact Replicas: Enabled
-  - Matching Set Circlets: Enabled
-- Learning & XP → Smithing Experience:
-  - Tanning Rack: 0.1
-  - Smelter: 0.1
-- Mining and Materials → Mining:
-  - Mining Presets: FASTER MINING
-- Mining and Materials → Firewood:
-  - Firewood per chop: 6
-  - Max per activation: 1
-- Tempering and Enchanting → Variable Tempering Strength:
-  - Enable Tempering Adjustments: Enabled
-- Tempering and Enchanting → Variable Enchantment Strength:
-  - Enable Enchanting Adjustments: Enabled
-
-### CGO
-
-- Unlocked Grip:
-  - Hotkey: (Preference)
-- Leaning (Preference):
-  - Lean Multiplier (1st Person): X0.5
-  - Lean Multiplier (3rd Person): X0.5
-- Camera Noise (Preference):
-  - Camera Noise Mult (1st Person): X0.0
-- Dual Wield Blocking:
-  - Hotkey: (Preference)
-
-### Trade and Barter
-
-- Barter Rates → Settings:
-  - Modify Barter Settings: Enabled
-  - Barter Rates → Preset:
-  - Barter Rate: Medium
-
-The rest of the required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
+The required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
 
 - Immersive HUD
 - All Geared up Derivative
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - XP32 Skeleton Styles
+- Combat Gameplay Overhaul (Some people don't like the leaning and head movement)
 
 ## Other Post Installation FAQ
+
+### Controlmap
+
+These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
+
+- Better Vampires - Feed : B
+- Combat Gameplay Overhaul - Unlocked Grip: Unbound, bound it to a key of your choice
+- Combat Gameplay OVerhual - Dual Wield Blocking: Unbount, bound it to a key of your choice
+- Immersive HUD - Toggle HUD: X
+- Predator Vision - Hunter's Nightvisoin: V
+- Predator Vision - Hunter's Predator Vision: H
+- Simple Horsee - Horse Whistle: Y
+- The Ultimate Dodge Mod - Dodge : Mouse 4. **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
+- The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side stepping and rolling)
 
 ### Ultrawide Options
 

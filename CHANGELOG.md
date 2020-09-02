@@ -2,60 +2,63 @@
 
 ## 2.1.0
 
-### Released at: `Unreleased`
+### Released at: `02/09/2020`
+
+### This update requires a new save.
 
 ### Added
 
+- (DMC) The Ultimate Dodge Mod Reanimated
 - Actor Limit Fix
 - Bandit Encounters - Random outdoor bandit spawns
-- The Ultimate Dodge Mod
+- Bogmort - Mud Monsters of Morthal Swamp
 - CC's HQ Alduins Wall
-- ENB Particle Lights - Dwemmer Lanterns
-- Diverse Dragon Collections
 - Deadly Dragons
-- Splendor - Dragon Variants
-- (DMC) The Ultimate Dodge Mod Reanimated
-- Spell Perk Item Distributor
+- Detailing the Eldritch
+- Diverse Dragon Collections
+- ENB Particle Lights - Dwemmer Lanterns
 - Enemy (R)evolution of Skyrim
 - Heritage - Reflexive Enemies
-- Predator Vision
-- Realistic AI Detection Se
-- Skyrim Alchemy and Food Overhaul
-- Unplayable Faction Armors - Heritage Relexive Enemies Patch
+- JK's Interiors Patch Collection
+- Lanterns of Skyrim II + Tamriel Master Lights Edition
 - Legacy of the Dragonborn - Interesting NPCs Patch
 - Legacy Safehouse Plus
 - Oblivion Artifacts Pack - Invisible Head Fix
-- The Falkreath Hauntings
-- Bogmort - Mud Monsters of Morthal Swamp
+- Predator Vision
 - Rally's Hanging Moss
-- JK's Interiors Patch Collection
-- Detailing the Eldritch
 - Real Ice
-- Lanterns of Skyrim II + Tamriel Master Lights Edition
+- Realistic AI Detection Se
+- Skyrim Alchemy and Food Overhaul
+- SkyTEST Less Fear Patch
+- Spell Perk Item Distributor
+- Splendor - Dragon Variants
+- The Falkreath Hauntings
 - The Notice Board Redifined
+- The Ultimate Dodge Mod
+- Unplayable Faction Armors - Heritage Relexive Enemies Patch
 - VIGILANT - Book Covers
 
 ### Updated
 
-- Aetherius - A Race Overhaul v2.3.3
-- SSE Engine Fixes v5.4.1
-- SkyTEST Appropriate Agression v1.33
-- Rustic Furniture v3.0
-- Legacy of the Dragonborn - The Curator's Companion v1.1.3
-- AI Overhaul SSE v1.6
+- Aetherius - A Race Overhaul v2.3.4
+- AI Overhaul SSE v1.6.2
 - JK's Skyrim - AI Overhaul SSE Patch v1.1
-- Mod Organizer 2 v2.3.2
+- Legacy of the Dragonborn - The Curator's Companion v1.1.3
 - Ljoss v7.1 - Also using the brighter nights and interiors option
+- Mod Organizer 2 v2.3.2
+- Rustic Furniture v3.0
+- SkyTEST Appropriate Agression v1.33
+- SSE Engine Fixes v5.4.1
 
 ### Removed
 
-- Movement Behavior Overhaul - Doesn't work above a certain FPS, causes T-Poses, lots of animations don't work great with CGO
-- Jump Behavior Overhaul - Doesn't work great with CGO
+- Blocking Animation Pack - Conflicts with CGO's animations
 - Blocking Animation Pack - Conflicts with CGO's animations
 - CBPC - CBP Physics with Collision - Diagnosing a rare skeleton crash
 - Immersive CBP Config - Diagnosing a rare skeleton crash
-- Blocking Animation Pack - Conflicts with CGO's animations
+- Jump Behavior Overhaul - Doesn't work great with CGO
 - Magic Casting Animations Overhaul - Conflicts with CGO's animations
+- Movement Behavior Overhaul - Doesn't work above a certain FPS, causes T-Poses, lots of animations don't work great with CGO
 - Zim's Dragon Improvements - Dragons were too powerful for a lot of people. Light version had errors in the esp which had no clear indication on how to fix
 
 ### Tweaks
