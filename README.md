@@ -182,6 +182,7 @@ Various other mods are used to flesh out all aspects of the game as well such as
 8. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
 9. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
 10. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
+11. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
 
 ### Quest and Encounter Mods
 
