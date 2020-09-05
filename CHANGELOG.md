@@ -1,10 +1,27 @@
 # Changelog
 
+## 2.1.1
+
+### Released at :`05/09/2020`
+
+### Updated
+
+- AI Overhaul SSE v1.6.2 - Author reuploaded
+- ENBSeries v440 - Stealth updated
+
+### Removed
+
+- Old Skyrim Shader Bundle - Now not needed with ENBSeries v440
+
+### Tweaks
+
+- Removed the ability for the Riverwood chicken to drop every Triumvirate spellbook
+
 ## 2.1.0
 
 ### Released at: `02/09/2020`
 
-### This update requires a new save.
+### This update requires a new save
 
 ### Added
 
