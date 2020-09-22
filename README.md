@@ -310,7 +310,7 @@ These are currently the custom controls added by Mods. Feel free to customize th
 - Combat Gameplay Overhaul - Unlocked Grip: Unbound, bound it to a key of your choice
 - Combat Gameplay OVerhual - Dual Wield Blocking: Unbount, bound it to a key of your choice
 - Immersive HUD - Toggle HUD: X
-- Predator Vision - Hunter's Nightvisoin: V
+- Predator Vision - Hunter's Nightvision: V
 - Predator Vision - Hunter's Predator Vision: H
 - Simple Horse - Horse Whistle: Y
 - The Ultimate Dodge Mod - Dodge: Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
