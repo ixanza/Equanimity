@@ -306,15 +306,15 @@ The required MCM options have been automated for you. Enjoy the game or tweak th
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
-- Better Vampires - Feed : B
+- Better Vampires - Feed: B
 - Combat Gameplay Overhaul - Unlocked Grip: Unbound, bound it to a key of your choice
 - Combat Gameplay OVerhual - Dual Wield Blocking: Unbount, bound it to a key of your choice
 - Immersive HUD - Toggle HUD: X
 - Predator Vision - Hunter's Nightvisoin: V
 - Predator Vision - Hunter's Predator Vision: H
 - Simple Horse - Horse Whistle: Y
-- The Ultimate Dodge Mod - Dodge : Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
-- The Ultimate Dodge Mod - Change Dodging Style : G (This changes between side stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
+- The Ultimate Dodge Mod - Dodge: Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
+- The Ultimate Dodge Mod - Change Dodging Style: G (This changes between side stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
 
 ### Ultrawide Options
 

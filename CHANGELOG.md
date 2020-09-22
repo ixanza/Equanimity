@@ -1,8 +1,59 @@
 # Changelog
 
+## 2.2
+
+### Released at: `22/09/2020`
+
+### Added
+
+- Ave's Interesting NPCs Jewelry Replacer
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold
+- Hood Plus Hair for Seranaholic v1.8.2
+- Interesting NPCs Visual Overhaul
+- NPC AI Process Position Fix - SSE
+
+### Updated
+
+- AI Overhaul v1.6.3
+- cookeh's conditional and random idles v2.07
+- Cuyima Interesting NPCs v1.1
+- DynDOLOD Resource v2.85
+- DynDOLOD v2.85
+- Embers HD v1.41
+- enbseries v445
+- Growl v2.0.0
+- Guard Dialog Overhaul v2.1.3
+- Heritage - Reflexive Enemies - Added Soulmancers Fixes
+- High Poly Head v1.4
+- Interesting NPCs - Swapped to Loose version to prevent a crash
+- JK's Interiors Patch Collection v1.7.2
+- JK's Skyrim AI Overhaul v1.1.1
+- Kalilies NPCs v2.31
+- Legacy of the Dragonborn - Interesting NPCs Patch v1.1
+- Legacy of the Dragonborn - The Curator's Companion v2.12
+- Legacy Safehouse Plus v3.1
+- Ljoss v8.11
+- MLU - INIGO Patch v2.4c
+- OMEGA Updated v2.3.3
+- Serana Dialog Addon v1.8.3
+- Simple Horse v1.21
+- Skyrim Landscape and Water Fixes v5.6
+- Skyrim Particle Patch for ENB - No version number change
+- Skytest Appopriate Aggression v1.34
+- The Wheels of Lull v4.1.3
+- Triumvirate v1.4
+
+### Removed
+
+- Interesting NPCs Zora Customizer - Replaced with Interesting NPCs Visual Overhaul
+
+### Fixed
+
+- Addressed issue with Thieves Guild Requirements not letting you join with 100 items stolen
+
 ## 2.1.1
 
-### Released at :`05/09/2020`
+### Released at:`05/09/2020`
 
 ### Updated
 
@@ -12,6 +63,7 @@
 ### Removed
 
 - Old Skyrim Shader Bundle - Now not needed with ENBSeries v440
+- Wheels of Lull Unofficial Patch - Now included in The Wheels of Lull
 
 ### Tweaks
 
