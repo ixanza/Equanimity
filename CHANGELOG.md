@@ -1,5 +1,76 @@
 # Changelog
 
+## 3.0.0
+
+### Released at: `Unreleased`
+
+## This update requires a new save game
+
+### Added
+
+- Experience
+- Experience - Side Quest Patch
+- Legacy of the Dragonborn - Followers Patch (Inigo and M'rissi)
+- Undeath Classical Lichdom
+- Ulag's Legacy
+- Bosmer Armor Pack
+- Stormlord Armor
+- Ritual Armor of Boethiah
+- Witchplate Armor
+- Legendary Skyrim Crossbows and Bows SSE
+- Tools of Kagrenac
+- Lustmord Vampire Armor
+- Dawnguard Arsenal
+- Konahrik's Accoutrements
+- Konahrik's Accoutrements Upscaled Textures
+- SRCEO Additions
+- Simple Bound Weapons Expansion
+- Organized Bandits in Skyrim
+- Rudy HQ - More Lights for ENB - Daedric Weapons
+- Knight-Errant (VIGILANT SE Add-on)
+- Ish's Respec Mod
+- Enhanced Atronachs
+- Mysticism - Enhanced Atronachs Patch
+
+### Updated
+
+- Legacy of the Dragonborn - The Curators Companion v2.3.0
+- SSE Display Tweaks v0.4.7
+- Growl v2.0.2
+- Triumvirate v1.5.1
+- Rudy HQ Series
+
+### Removed
+
+- Undeath - Immersive Lichdom - Replaced with Classical Lichdom
+- Undeath - Ascension - Replaced with Classical Lichdom
+- Falkreath Hauntings - Hard landscape/navmesh mod incompatiblity with Undeath
+- New Game Plus - Useless with Experience
+- Heritage - A bit too many headless bandits. Plus OBIS is tougher
+- Combat Gameplay Overhaul - Breaks Bound 2Handed weapons and Bows
+
+## 2.2.1
+
+### Released at: `25/09/2020`
+
+### Updated
+
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.0
+- Nether's Follower Framework v2.7.1
+- Skytest Appropriate Agression v1.35
+- SSE Display Tweaks v0.4.6
+- The Wheels of Lull v4.1.4
+
+### Fixes
+
+- Addressed Black-Faced Bug for Idesa Sadri, Lynly Star-Strung, Luaffyn and Fruki
+- Fixed 3DNPC Followers not working right with Nether's Follower Framework
+- Disabled the option to pick ordinary women headparts to prevent unintended crashes
+
+### Removed
+
+- NPC AI Process Position Fix - Apparently causes crashes when waiting/sleeping in inns
+
 ## 2.2
 
 ### Released at: `22/09/2020`
