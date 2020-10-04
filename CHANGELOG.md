@@ -24,7 +24,6 @@
 - Immersive Animations
 - Ish's Respec Mod
 - Know Your Enemy
-- Know Your Enemy
 - Konahrik's Accoutrements
 - Konahrik's Accoutrements Upscaled Textures
 - Legacy of the Dragonborn - Followers Patch (Inigo and M'rissi)
