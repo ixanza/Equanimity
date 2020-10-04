@@ -8,46 +8,70 @@
 
 ### Added
 
+- Ashes - VIGILANT Witch Hunter Armor Retexture
+- Blocking Animation Patck
+- Bosmer Armor Pack
+- Dawnguard Arsenal
+- Dual Wield Improved Animations SSE
+- Dwemer Spectres
+- Enhanced Atronachs
 - Experience
 - Experience - Side Quest Patch
-- Legacy of the Dragonborn - Followers Patch (Inigo and M'rissi)
-- Undeath Classical Lichdom
-- Ulag's Legacy
-- Bosmer Armor Pack
-- Stormlord Armor
-- Ritual Armor of Boethiah
-- Witchplate Armor
-- Legendary Skyrim Crossbows and Bows SSE
-- Tools of Kagrenac
-- Lustmord Vampire Armor
-- Dawnguard Arsenal
+- Finally First Person Magic Animations
+- Forsworn Gravesingers
+- Forsworn Skinchangers
+- Immersive Animations
+- Ish's Respec Mod
+- Know Your Enemy
+- Know Your Enemy
 - Konahrik's Accoutrements
 - Konahrik's Accoutrements Upscaled Textures
-- SRCEO Additions
-- Simple Bound Weapons Expansion
-- Organized Bandits in Skyrim
-- Rudy HQ - More Lights for ENB - Daedric Weapons
-- Knight-Errant (VIGILANT SE Add-on)
-- Ish's Respec Mod
-- Enhanced Atronachs
+- Legacy of the Dragonborn - Followers Patch (Inigo and M'rissi)
+- Legendary Skyrim Crossbows and Bows SSE
+- Lustmord Vampire Armor
+- Magic Casting Animation Overhaul SSE
+- Michaels Darker vicn Vigilant overhaul
 - Mysticism - Enhanced Atronachs Patch
+- Organized Bandits in Skyrim
+- Pretty Combat Animations
+- Project New Reign - Nemesis PCEA
+- Ritual Armor of Boethiah
+- Rudy HQ - Glowing Mushrooms
+- Rudy HQ - More Lights for ENB - Daedric Weapons
+- Simple Bound Weapons Expansion
+- Skyrim Revamped Dwemer Spectres Patch
+- SRCEO Additions
+- Stendarr Statue Replacer for Vigilant
+- Stormlord Armor
+- Tools of Kagrenac
+- Ulag's Legacy
+- Undeath Classical Lichdom
+- Vigilant - Hi-Res Textures
+- Vigilant Armors ReTexture SE
+- Vigilant Glenmoril Gun Replacer SE
+- Witchplate Armor
+- YY Animation Replacer - Mystic Knight for Sse
 
 ### Updated
 
-- Legacy of the Dragonborn - The Curators Companion v2.3.0
-- SSE Display Tweaks v0.4.7
+- AI Overhaul SSE v1.64
+- Bodyslide v5.20
+- Ethereal Clouds v2.0
 - Growl v2.0.2
-- Triumvirate v1.5.1
+- Legacy of the Dragonborn - The Curators Companion v2.3.0
 - Rudy HQ Series
+- Seranaholic v1.8.3
+- SSE Display Tweaks v0.4.7
+- Triumvirate v1.6.0
 
 ### Removed
 
-- Undeath - Immersive Lichdom - Replaced with Classical Lichdom
-- Undeath - Ascension - Replaced with Classical Lichdom
-- Falkreath Hauntings - Hard landscape/navmesh mod incompatiblity with Undeath
-- New Game Plus - Useless with Experience
-- Heritage - A bit too many headless bandits. Plus OBIS is tougher
 - Combat Gameplay Overhaul - Breaks Bound 2Handed weapons and Bows
+- Falkreath Hauntings - Hard landscape/navmesh mod incompatiblity with Undeath
+- Heritage - A bit too many headless bandits. Plus OBIS is tougher
+- New Game Plus - Useless with Experience
+- Undeath - Ascension - Replaced with Classical Lichdom
+- Undeath - Immersive Lichdom - Replaced with Classical Lichdom
 
 ## 2.2.1
 
