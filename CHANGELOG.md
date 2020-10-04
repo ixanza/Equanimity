@@ -9,6 +9,7 @@
 ### Added
 
 - Ashes - VIGILANT Witch Hunter Armor Retexture
+- Black Mage Armor SSE
 - Blocking Animation Patck
 - Bosmer Armor Pack
 - Dawnguard Arsenal
