@@ -23,13 +23,14 @@
 - Finally First Person Magic Animations
 - Forsworn Gravesingers
 - Forsworn Skinchangers
+- Frankly HD Miraak
 - Immersive Animations
 - Ish's Respec Mod
 - Know Your Enemy
 - Konahrik's Accoutrements
 - Konahrik's Accoutrements Upscaled Textures
 - Legacy of the Dragonborn - Followers Patch (Inigo and M'rissi)
-- Legendary Skyrim Crossbows and Bows SSE
+- Legendary Skyrim Crossbows and Bows SSE - Note: Only a few crossbows are added, the rest are deleted
 - Lustmord Vampire Armor
 - Magic Casting Animation Overhaul SSE
 - Michaels Darker vicn Vigilant overhaul
@@ -37,11 +38,13 @@
 - Organized Bandits in Skyrim
 - Pretty Combat Animations
 - Project New Reign - Nemesis PCEA
+- Requiem - Guard Plate Retexture - Note: Only added to retexture the guard armors in Skyrim Knights
 - Ritual Armor of Boethiah
 - Rudy HQ - Glowing Mushrooms
 - Rudy HQ - More Lights for ENB - Daedric Weapons
 - ShadowmereReplace
 - Simple Bound Weapons Expansion
+- Skyrim Knights 2018 - Note: Only the Guard Armors are Added, the rest are removed
 - Skyrim Revamped Dwemer Spectres Patch
 - SRCEO Additions
 - Stendarr Statue Replacer for Vigilant
@@ -54,8 +57,6 @@
 - Vigilant Glenmoril Gun Replacer SE
 - Witchplate Armor
 - YY Animation Replacer - Mystic Knight for Sse
-- Skyrim Knights 2018 - NOTE : Only the Guard Armors are Added, the rest are removed
-- Requiem - Guard Plate Retexture - Note : Only added to retexture the guard armors in Skyrim Knights
 
 ### Updated
 
@@ -63,45 +64,46 @@
 - Bodyslide v5.20
 - Ethereal Clouds v2.0
 - Growl v2.0.2
-- Legacy of the Dragonborn v5.4.1
 - Legacy of the Dragonborn - The Curators Companion v3.0.0
+- Legacy of the Dragonborn v5.4.1
 - Oblivion Artifact Pack SE v3
 - Racemenu v0.4.16
 - Rudy HQ Series
+- Serana Dialog Addon v1.9.3
 - Seranaholic v1.8.3
+- Spell Perk Item Distributor v3.9
 - SSE CreationKit Fixes v3.1
 - SSE Display Tweaks v0.4.7
 - Triumvirate v1.6.0
-- Serana Dialog Addon v1.9.3
-- Spell Perk Item Distributor v3.9
 
 ### Removed
 
 - Combat Gameplay Overhaul - Breaks Bound 2Handed weapons and Bows
 - Falkreath Hauntings - Hard landscape/navmesh mod incompatiblity with Undeath
+- Guard Armor Replacer - Removed due to removing New Legion and then having weird consistency issues where guards look so much more well equipped than the army.
+- Helgen Reborn - NordWarUA Armor Replacer
 - Heritage - A bit too many headless bandits. Plus OBIS is tougher
 - Lawbringer - Claiming certain areas seem to lead to various memory crashes that aren't solvable. Holding off for now.
 - New Game Plus - Useless with Experience
+- New Legion - Some of its armor pieces are not compatible with other armors, causing missing hands.
+- New Legion USSEP and WACCF Patch
+- Nordwar's Race Armor Extension - I just didn't see a need for this anymore
+- Stormcloak Armor Revival - Keep Frankly HD ones to be consistent with guard plate armors
 - Undeath - Ascension - Replaced with Classical Lichdom
 - Undeath - Immersive Lichdom - Replaced with Classical Lichdom
 - Unplayable Faction Armors - Removed due to removing New Legion and GAR making Alik'r and people like jaree-ra being so much more well equipped than other npcs
-- Nordwar's Race Armor Extension - I just didn't see a need for this anymore
-- Guard Armor Replacer - Removed due to removing New Legion and then having weird consistency issues where guards look so much more well equipped than the army.
-- New Legion - Some of its armor pieces are not compatible with other armors, causing missing hands.
 - Unplayable Faction Armors - VIGILANT Voiced English Addon Patch
-- New Legion USSEP and WACCF Patch
-- Helgen Reborn - NordWarUA Armor Replacer
 
 ### Custom Tweaks and Fixes
 
-- All Heavy Armory Daedric Items now require 7 black books to be in-lined with regular daedric stuff
-- Skyrim Knights is only added for guard armors. Tweaked the leveled list of guard armors to have 2/5 chance of spawning with steel plate armors using Skyrim Knights armors and 3/5 chance of spawning regular guard armors
-- Ish's Respec Potion costs 2500 gold
-- Temporarily fixed the tempering recipes for LOTD 3DNPC added items. This issue has been reported to the Mod author and will be fixed by their end
-- All Dragon Priest Masks can be worn in lich form, this includes masks from Legacy of the Dragonborn as well as the Rusty mask added by Wyrmstooth
-- Classical Lichdom gives liches True Sight, I have swapped it for Hunter's Nightvision and given Hunter's Predator vision to liches
-- Only leveled crossbows from Legendary Skyrim Crossbows and Bows SE is added, this means only , Iron, Steel, Elven, Glass, Ebony, Orcish, Dragon, Daedric crossbows are added. Iron and steel have been added to leveled lists of npcs while elven has been added to leveled lists of guards
 - All armors added in this update have been re-balanced for Morrowloot and Complete Crafting Overhaul
+- All Dragon Priest Masks can be worn in lich form, this includes masks from Legacy of the Dragonborn as well as the Rusty mask added by Wyrmstooth
+- All Heavy Armory Daedric Items now require 7 black books to be in-lined with regular daedric stuff
+- Classical Lichdom gives liches True Sight, I have swapped it for Hunter's Nightvision and given Hunter's Predator vision to liches
+- Ish's Respec Potion costs 2500 gold
+- Only leveled crossbows from Legendary Skyrim Crossbows and Bows SE is added. This means only Iron, Steel, Elven, Glass, Ebony, Orcish, Dragon, Daedric crossbows are added. Iron and steel have been added to leveled lists of npcs while Elven has been added to leveled lists of Thalmors
+- Skyrim Knights is only added for guard armors. Tweaked the leveled list of guard armors to have 2/5 chance of spawning with steel plate armors using Skyrim Knights armors and 3/5 chance of spawning regular guard armors
+- Temporarily fixed the tempering recipes for LOTD 3DNPC added items. This issue has been reported to the Mod author and will be fixed by their end
 
 ## 2.2.1
 
