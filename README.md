@@ -178,11 +178,13 @@ Various other mods are used to flesh out all aspects of the game as well such as
 4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
 5. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
 6. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
-7. [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767) enables new combat mechanics such as jump attacks, unlocked grip and a dodge function
-8. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
-9. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
-10. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
-11. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
+7. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
+8. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
+9. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
+10. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
+11. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters
+12. [Reqliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723) overhauls a lot of unique items and artifacts to make the gameplay feel fresh
+13. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type. You will be doing less damage to draugr for example by using frost spells on them
 
 ### Quest and Encounter Mods
 
@@ -204,14 +206,16 @@ Equanimity comes with a wide variety of new quest and encounters. A few are list
 
 [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) is a medium sized DLC questline surroudning the Great House Telvanni.
 
-[Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) is a quest and expansion mod that delves deep into necromancy and offers a new lich transformation.
+[Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) and [Undeath Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802) is a quest and expansion mod that delves deep into necromancy and offers a new lich transformation.
 
-[Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748) is an expansive questline filled with puzzles, infiltration, poltergeists, mad science, and butter.
+[Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748) is an expansive questline filled with puzzles, infiltration, poltergeists, mad science, and butter. Note that the questline starts at level 40.
+
+[Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) adds a questline and multiple dungeons and new artifacts to uncover.
 
 Equanimity also has a lot of modified vanilla quests such as:
 
 1. [Save the Icerunner - Lights Out Alternate Route](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
-2. [Finding Deerkethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
+2. [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550)
 3. [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973)
 4. [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815)
 
@@ -253,6 +257,8 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
+[M'rissi's Tails of Trouble](https://www.nexusmods.com/skyrimspecialedition/mods/9666/) adds a questline, and a new female khajit follower that is also a marriage candidate.
+
 ### Audio and Weather
 
 [Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
@@ -261,19 +267,17 @@ For an overview of every single NPC that is retextured. Please see [this section
 
 [Amulets of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/487) adds new amulets as well as the ability to turn standing stone/artifact effects into necklaces and rings.
 
+[Black Mage Armor](https://www.nexusmods.com/skyrimspecialedition/mods/356) adds a new cloth/light/heavy armor that looks incredibly cool for a mage/battlemage.
+
+[Bosmer Armor Pack](https://www.nexusmods.com/skyrimspecialedition/mods/5597) adds a new craftable armor set suitable for bosmer/druid playstyles.
+
 [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369) provides cloaks to various NPCs.
+
+[Dawnguard Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/25094) expands the weapon choices of the dawnguard with new and improved variety.
 
 [Heavy Armory](https://www.nexusmods.com/skyrimspecialedition/mods/6308) adds around 100 new weapons into the game that is evenly distributed to all the enemies and NPCs.
 
 [Common Clothes and Armors](https://www.nexusmods.com/skyrimspecialedition/mods/21305) adds more variety of common clothes to leveled lists.
-
-[Guard Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/22671) adds new guard and stormcloak looks.
-
-[New Legion](https://www.nexusmods.com/skyrimspecialedition/mods/30468) adds new looks to the imperials.
-
-[Unplayable Faction Armor](https://www.nexusmods.com/skyrimspecialedition/mods/30051) adds new armor to alik'r and vigilants and other npc archetypes
-
-[NordwarUA's Race Armor Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/34585) adds new armor to races like orcs
 
 [Nordic Wanderer](https://www.nexusmods.com/skyrimspecialedition/mods/7943) adds two new swords and a new armour set for male and females. There is full weight-slider support and the armour should be compatible with all body mods.
 
@@ -296,7 +300,6 @@ The required MCM options have been automated for you. Enjoy the game or tweak th
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - XP32 Skeleton Styles
-- Combat Gameplay Overhaul (Some people don't like the leaning and head movement)
 
 **NOTE. Dodging is provided by the Mod "The Ultimate Dodge Mod". Please head to System > Controls > Sneak and change the Keybind to  whatever you want to use to dodge with. I recommend side mouse buttons. If you do not change this to something else, your character will not be able to sneak or will be stuck sneaking.**
 
@@ -307,14 +310,13 @@ The required MCM options have been automated for you. Enjoy the game or tweak th
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
 - Better Vampires - Feed: B
-- Combat Gameplay Overhaul - Unlocked Grip: Unbound, bound it to a key of your choice
-- Combat Gameplay OVerhual - Dual Wield Blocking: Unbount, bound it to a key of your choice
 - Immersive HUD - Toggle HUD: X
 - Predator Vision - Hunter's Nightvision: V
 - Predator Vision - Hunter's Predator Vision: H
 - Simple Horse - Horse Whistle: Y
 - The Ultimate Dodge Mod - Dodge: Ctrl **Note to change this keybind you want to rebind the Sneak key in Skyrim Settings > Controls**
 - The Ultimate Dodge Mod - Change Dodging Style: G (This changes between side stepping and rolling) **Note your character may be stuck in the air the first time you dodge. Pressing this will fix it**
+- Classical Lichdom - Death Grip/Staff Equip Key: C
 
 ### Ultrawide Options
 

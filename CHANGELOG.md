@@ -2,7 +2,7 @@
 
 ## 3.0.0
 
-### Released at: `Unreleased`
+### Released at: `11/10/2020`
 
 ## This update requires a new save game
 
@@ -38,6 +38,7 @@
 - Organized Bandits in Skyrim
 - Pretty Combat Animations
 - Project New Reign - Nemesis PCEA
+- Reliquary of Myth
 - Requiem - Guard Plate Retexture - Note: Only added to retexture the guard armors in Skyrim Knights
 - Ritual Armor of Boethiah
 - Rudy HQ - Glowing Mushrooms
@@ -50,8 +51,10 @@
 - Stendarr Statue Replacer for Vigilant
 - Stormlord Armor
 - Tools of Kagrenac
+- TUDM Patch Collection
 - Ulag's Legacy
 - Undeath Classical Lichdom
+- Unique Item Tweaks
 - Vigilant - Hi-Res Textures
 - Vigilant Armors ReTexture SE
 - Vigilant Glenmoril Gun Replacer SE
@@ -62,8 +65,11 @@
 
 - AI Overhaul SSE v1.64
 - Bodyslide v5.20
+- ENBSeries v448
+- Enemy (R)evolution of Skyrim v1.76.01
 - Ethereal Clouds v2.0
 - Growl v2.0.2
+- JK's Interiors Patch Collection v2.0
 - Legacy of the Dragonborn - The Curators Companion v3.0.0
 - Legacy of the Dragonborn v5.4.1
 - Oblivion Artifact Pack SE v3
@@ -78,9 +84,9 @@
 
 ### Removed
 
-- Combat Gameplay Overhaul - Breaks Bound 2Handed weapons and Bows
+- Combat Gameplay Overhaul - Breaks Bound 2Handed weapons and Bows and who knows what else tbh. I can't believe I kept it in so long
 - Falkreath Hauntings - Hard landscape/navmesh mod incompatiblity with Undeath
-- Guard Armor Replacer - Removed due to removing New Legion and then having weird consistency issues where guards look so much more well equipped than the army.
+- Guard Armor Replacer - Removed due to removing New Legion and then having weird consistency issues where guards look so much more well equipped than the army
 - Helgen Reborn - NordWarUA Armor Replacer
 - Heritage - A bit too many headless bandits. Plus OBIS is tougher
 - Lawbringer - Claiming certain areas seem to lead to various memory crashes that aren't solvable. Holding off for now.
@@ -91,8 +97,12 @@
 - Stormcloak Armor Revival - Keep Frankly HD ones to be consistent with guard plate armors
 - Undeath - Ascension - Replaced with Classical Lichdom
 - Undeath - Immersive Lichdom - Replaced with Classical Lichdom
+- Unique Dragon Aspect - Conflicts with Vortikai's Dragon Aspect Toggle
 - Unplayable Faction Armors - Removed due to removing New Legion and GAR making Alik'r and people like jaree-ra being so much more well equipped than other npcs
 - Unplayable Faction Armors - VIGILANT Voiced English Addon Patch
+- Wintersun - More Patches - We only used the Zim's Patch
+- Zim's Immersive Artifacts - Replaced with Reliquary of Myth and reinstalled only Thane Weapons
+- Zim's Immersive Artifacts and GIST Compatibility Patch - Not needed anymore
 
 ### Custom Tweaks and Fixes
 
@@ -101,8 +111,10 @@
 - All Heavy Armory Daedric Items now require 7 black books to be in-lined with regular daedric stuff
 - Classical Lichdom gives liches True Sight, I have swapped it for Hunter's Nightvision and given Hunter's Predator vision to liches
 - Ish's Respec Potion costs 2500 gold
+- Leveled lists have been tweaked even more. Now Alik'rs will be spawning with Jaysus Scimitars as well as Heavy Armory Scimitars
 - Only leveled crossbows from Legendary Skyrim Crossbows and Bows SE is added. This means only Iron, Steel, Elven, Glass, Ebony, Orcish, Dragon, Daedric crossbows are added. Iron and steel have been added to leveled lists of npcs while Elven has been added to leveled lists of Thalmors
 - Skyrim Knights is only added for guard armors. Tweaked the leveled list of guard armors to have 2/5 chance of spawning with steel plate armors using Skyrim Knights armors and 3/5 chance of spawning regular guard armors
+- Swapped Ljoss back to Natural instead of Bleak or w/e it was that made everything very desaturated. Also made nights dark again. Should be a lot better with Tamriel Master Lights, or use your torch
 - Temporarily fixed the tempering recipes for LOTD 3DNPC added items. This issue has been reported to the Mod author and will be fixed by their end
 
 ## 2.2.1
