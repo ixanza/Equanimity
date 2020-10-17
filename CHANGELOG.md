@@ -1,5 +1,45 @@
 # Changelog
 
+## 3.1.0
+
+### Released at: `17/10/2020`
+
+## This update may require a new save (?)
+
+- Note. Some of the mods updated recommend a new save or for you to clean your saves. I am not a fan of running re-saver and cleaning saves and cannot recommend doing it so either update and start over, learn how to do that, or just don't update at all
+
+## Added
+
+- Interesting NPCs and WACCF Outfits Patch
+- Koalatative Improvements (KI) - Unarmed Integration for Adamant
+- OBIS Patrols
+- Reliquary of Myth and GIST compatability patch
+  
+## Updated
+
+- Growl v2.3.0
+- JContainers  v4.1.13
+- JK's Interiors Patch Collection v2.0.1
+- Legacy of the Dragonborn v5.4.2
+- Legacy of the Dragonborn - Interesting NPCs Patch v1.2.1
+- Nether's Follower Framework v2.7.2
+- Reliquary of Myth v3.5.3
+- SkyREM - EVE v2.2
+- Synthesis v0.10.5
+- Undeath - Classical Lichdom v1.75
+
+## Removed
+
+- Random Bandit Encounters - Replaced with OBIS Patrols
+
+## Custom Tweaks and Fixes
+
+- Added hotkey functionality for Predator Vision in Lich Form. Thanks SirJesto
+- Adjusted the damage of Imperial and Stormcloak Crossbow bolts
+- Fixed Imperial aligned guards having 10x the amount of crossbow bolts they're meant to have
+- Fixed Undeath and Adamant conflict on reanimating dead bodies i think
+- Further improved how the guards look. You will no longer stare into the void when looking at their eyes
+  
 ## 3.0.0
 
 ### Released at: `11/10/2020`
