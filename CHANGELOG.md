@@ -1,5 +1,20 @@
 # Changelog
 
+## 3.1.1
+
+### Releaed at: `18/10/2020`
+
+### Updated
+
+- Enhanced Atronachs v3.00
+- Nether's Follower Framework v2.7.2
+- Undeath - Classical Lichdom v1.76
+
+### Custom Tweaks and Fixes
+
+- Uncapper preset tweaked. no more double perks at level 10. you gain an extra perk point every 8 levels
+- Amulet of the Ritual no longer lets you reanimate a dead body for 60 seconds. now grants 15% increased Conjuration effect and duration
+
 ## 3.1.0
 
 ### Released at: `17/10/2020`
@@ -8,14 +23,14 @@
 
 - Note. Some of the mods updated recommend a new save or for you to clean your saves. I am not a fan of running re-saver and cleaning saves and cannot recommend doing it so either update and start over, learn how to do that, or just don't update at all
 
-## Added
+### Added
 
 - Interesting NPCs and WACCF Outfits Patch
 - Koalatative Improvements (KI) - Unarmed Integration for Adamant
 - OBIS Patrols
 - Reliquary of Myth and GIST compatability patch
   
-## Updated
+### Updated
 
 - Growl v2.3.0
 - JContainers  v4.1.13
@@ -28,11 +43,11 @@
 - Synthesis v0.10.5
 - Undeath - Classical Lichdom v1.75
 
-## Removed
+### Removed
 
 - Random Bandit Encounters - Replaced with OBIS Patrols
 
-## Custom Tweaks and Fixes
+### Custom Tweaks and Fixes
 
 - Added hotkey functionality for Predator Vision in Lich Form. Thanks SirJesto
 - Adjusted the damage of Imperial and Stormcloak Crossbow bolts
