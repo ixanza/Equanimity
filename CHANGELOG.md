@@ -29,7 +29,7 @@
 - Farmhouse Chimneys SE v4.0.5
 - JK's Skyrim - AI Overhaul SSE Patch v1.1.2
 - Legacy of the Dragonborn Patches v2.4.0
-- Legacy of the Dargonborn - The Curator's Companion v3.01
+- Legacy of the Dargonborn - The Curator's Companion v3.02
 - Oblivion Artifacts Pack v3HF
 - Reliquary of Myth v3.6.1
 - Rudy HQ - More Lights for ENB - Daedric Weapons and Armor v1.0g
