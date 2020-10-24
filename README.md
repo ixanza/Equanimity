@@ -212,6 +212,8 @@ Equanimity comes with a wide variety of new quest and encounters. A few are list
 
 [Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) adds a questline and multiple dungeons and new artifacts to uncover.
 
+[The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) sends you off on a quest to obtain the coveted gray cowl. While thieving around you will receive a vision that takes you on this quest to retrieve the cowl.
+
 Equanimity also has a lot of modified vanilla quests such as:
 
 1. [Save the Icerunner - Lights Out Alternate Route](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
