@@ -1,5 +1,51 @@
 # Changelog
 
+## 3.2.0
+
+### Released at: `24/10/2020`
+
+## This update requires a new save
+
+### Added
+
+- DX's Necromancer Armor
+- DX's Druid Armor
+- DX's Dark Knight Armor
+- DX's Dark Knight Shield
+- LOTD Museum Shipment Crates Patch and Even More Crates for Mods
+- Sales Overflow Solved
+- The Gray Cowl of Nocturnal SE
+- The Gray Cowl of Nocturnal SSE - HD pack
+- Gray Cowl of Nocturnal Alikr Flora Overhaul SE
+- The Gray Cowl of Nocturnal SE - Addons and Patches
+- Water for ENB
+- Word Wall Transparency Fix for ENB
+
+### Updated
+
+- Cathedral Weathers v2.23Beta
+- Deadly Dragons SE v6.5.5
+- ETHEREAL CLOUDS SE v3.0
+- Farmhouse Chimneys SE v4.0.5
+- JK's Skyrim - AI Overhaul SSE Patch v1.1.2
+- Legacy of the Dragonborn Patches v2.4.0
+- Legacy of the Dargonborn - The Curator's Companion v3.01
+- Oblivion Artifacts Pack v3HF
+- Reliquary of Myth v3.6.1
+- Rudy HQ - More Lights for ENB - Daedric Weapons and Armor v1.0g
+- Synthesis - v0.10.10
+
+### Removed
+
+- EVG Animation Variance - Diagnosing the skeleton.nif crashes led me to this
+- Realistic Water Two - Replaced with Water for ENB
+- Realistic Water Two Patch Hub
+
+### Custom Tweaks and Fixes
+
+- Disabled the wrong Dayspring Pass waypoint added by Atlas Map Markers
+- Maybe fixed the crash with the travelling noble? Idk, can't reproduce it anymore after forwarding some stuff in xedit
+
 ## 3.1.1
 
 ### Releaed at: `18/10/2020`
