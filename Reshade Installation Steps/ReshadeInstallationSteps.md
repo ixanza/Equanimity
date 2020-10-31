@@ -2,9 +2,9 @@
 
 ## Please follow the instructions here to install reshade with the required shaders for the list
 
-## Step 1
+Head over to <https://reshade.me> and download Reshade. Once it is done run the exe file and follow the instructions on the images below.
 
-Head over to https://reshade.me  
+## Step 1
 
 ![Step0](Step00.jpg)
 
