@@ -16,6 +16,7 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+    - [Reshade](#reshade)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [ENB](#enb)
   - [How to start up Equanimity](#how-to-start-up-equanimity)
@@ -123,19 +124,23 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
+### Reshade
+
+If you plan to use the default ENB included with this folder, [Click here for a tutorial on installing Reshade and the needed shaders from it](Reshade%20Installation%20Steps/ReshadeInstallationSteps.md). This isn't required but it makes a huge difference
+
 ### Copy Game Folder Files
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
 
 ### ENB
 
-Equanimity comes configured with [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
+Equanimity comes configured with [Rudy ENB For Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 A few other ENB suggestions are:
 
-- [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
 - [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
 - [Soul Spectrum ENB](https://www.nexusmods.com/skyrimspecialedition/mods/29675)
