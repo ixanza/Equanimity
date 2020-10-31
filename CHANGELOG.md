@@ -1,5 +1,61 @@
 # Changelog
 
+## 3.3.0
+
+### Released at: `1/11/2020`
+
+### Added
+
+- 3W's - More lights for ENB SE - Mania tileset
+- BeastHHBB - Beast Hair Horn Beard and Brow - Vanilla based character creation options and NPC replacer for Khajiit and Argonians
+- Believable Weapons
+- BoneMaster
+- ELE-ELFX Consistency Patches
+- Enhanced Lights and FX
+- Expressive Facegen Morphs SE
+- Expressive Facial Animation - Female Edition
+- Expressive Facial Animation - Male Edition
+- G.R.I.M
+- Grass Terrain Remade
+- Identiy Crisis
+- Immersive Fallen Trees Patch
+- Immersive Fort Dawnguard
+- Scion - A Vampire Overhaul
+- Simple Offense Suppression
+- Snowberries by Mari
+- Unofficial ELFX SMIM Patch by Skysan
+- Unofficial Identity Crisis LotD Patch
+- Unofficial Project AHO - Bugfix and Improvement Patch
+
+### Updated
+
+- Better Dynamic Majestic Mountains v10
+- Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
+- Dwemer Spectres Special Edition v3.6.1
+- DynDOLOD v2.86
+- Legacy of the Dragonborn - The Curator's Companion v3.03
+- Majestic Mountains v3.2
+- NetScriptFramework v14
+- OMEGA Updated - v2.3.4
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor v1.0h
+- Serana Dialog Addon v1.9.5
+- Undeath - Classical Lichdom v1.80
+
+### Removed
+
+- (DMC) - The Ultimate Dodge Mod Reanimated - Ehhh, shitty mod author hiding his mod due to drama he caused. We use step dodge for most of the time anyways and this didn't affect step dodge
+- 360 Movement Behaviour - Makes combat in first person cheaty as there's no penalty for moving backwards with this mod in combat for some reason
+- Better Vampires - IT'S SCION TIME BABY
+- Dragonbone Mastery - Replaced with Believable Weapons
+- Greatsword Sheaths and Scabbards Redux SE - Replaced with Believable Weapons
+- Unofficial Project AHO Chains Patching - Replaced with Bugfix and Improvement Patch
+- Vampire Facial Reclamation - Incompatible with Expressive Facegen Morphs
+
+### Custom Tweaks and Fixes
+
+- Lots of configuration powers and books were removed from the player on start. These are all mod configuration powers and are irrelevant to the player anyways due to having and MCM. The USSEP book has been removed as well. If you feel the need to use it, console it in.
+- Replaced Ljoss with Rudy CW and Zangdar's Edit including his reshade preset. Do note this comes at a considerable performance loss. I have disabled the ENB Ambient Occlusion and the Letterboxing, but its still quite a hit. Feel free to swap to another enb if desired
+
 ## 3.2.0
 
 ### Released at: `24/10/2020`
