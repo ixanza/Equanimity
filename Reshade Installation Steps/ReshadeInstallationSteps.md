@@ -4,7 +4,7 @@
 
 ## Step 1
 
-Head over to [https://reshade.me]  
+Head over to https://reshade.me  
 
 ![Step0](Step00.jpg)
 
@@ -43,3 +43,7 @@ Only follow whats selected. Ignore what isn't selected
 Only follow whats selected. Ignore what isn't selected
 
 ![Step6](Step06.jpg)
+
+## Step 8
+
+![Step7](Step07.jpg)
