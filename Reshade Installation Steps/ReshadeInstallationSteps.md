@@ -4,25 +4,42 @@
 
 ## Step 1
 
-Head over to [https://reshade.me]
+Head over to [https://reshade.me]  
+
 ![Step0](Step00.jpg)
 
 ## Step 2
+
+Select SkyrimSE in steam/steamapps/common/Skyrim Special Edition
 
 ![Step1](Step01.jpg)
 
 ## Step 3
 
+Select Direct3D 10/11/12
+
 ![Step2](Step02.jpg)
 
 ## Step 4
+
+Only follow whats selected. Ignore what isn't selected
 
 ![Step3](Step03.jpg)
 
 ## Step 5
 
+Don't tick anything here
+
 ![Step4](Step04.jpg)
 
 ## Step 6
 
+Only follow whats selected. Ignore what isn't selected
+
 ![Step5](Step05.jpg)
+
+## Step 7
+
+Only follow whats selected. Ignore what isn't selected
+
+![Step6](Step06.jpg)
