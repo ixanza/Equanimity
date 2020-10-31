@@ -4,6 +4,8 @@
 
 ### Released at: `1/11/2020`
 
+## This update requires a new save
+
 ### Added
 
 - 3W's - More lights for ENB SE - Mania tileset
@@ -33,6 +35,7 @@
 - Carriage and Ferry Travel Overhaul - Fixes and Winterhold v2.1
 - Dwemer Spectres Special Edition v3.6.1
 - DynDOLOD v2.86
+- ENBSeries v448 - Silent Update
 - Legacy of the Dragonborn - The Curator's Companion v3.03
 - Majestic Mountains v3.2
 - NetScriptFramework v14
@@ -60,7 +63,7 @@
 
 ### Released at: `24/10/2020`
 
-## This update requires a new save
+### This update requires a new save
 
 ### Added
 
@@ -121,7 +124,7 @@
 
 ### Released at: `17/10/2020`
 
-## This update may require a new save (?)
+### This update may require a new save (?)
 
 - Note. Some of the mods updated recommend a new save or for you to clean your saves. I am not a fan of running re-saver and cleaning saves and cannot recommend doing it so either update and start over, learn how to do that, or just don't update at all
 
@@ -161,7 +164,7 @@
 
 ### Released at: `11/10/2020`
 
-## This update requires a new save game
+### This update requires a new save game
 
 ### Added
 

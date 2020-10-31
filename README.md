@@ -126,7 +126,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Reshade
 
-If you plan to use the default ENB included with this folder, [Click here for a tutorial on installing Reshade and the needed shaders from it](Reshade%20Installation%20Steps/ReshadeInstallationSteps.md). This isn't required but it makes a huge difference
+If you plan to use the default ENB included with this folder, [Click here for a tutorial on installing Reshade and the needed shaders from it](Reshade%20Installation%20Steps/ReshadeInstallationSteps.md). This isn't required but it makes a huge difference.
 
 ### Copy Game Folder Files
 
@@ -174,22 +174,22 @@ Equanimity uses the full suite of Simon Magus's mods which are:
 4. [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 5. [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
 6. [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411)
+7. [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639?)
 
 Various other mods are used to flesh out all aspects of the game as well such as:
 
-1. [Better Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/1925) for overhauling Vampires
-2. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycantrophy
-3. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) which adds new mage archetypes to the game
-4. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
-5. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
-6. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
-7. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
-8. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
-9. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
-10. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
-11. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters
-12. [Reqliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723) overhauls a lot of unique items and artifacts to make the gameplay feel fresh
-13. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type. You will be doing less damage to draugr for example by using frost spells on them
+1. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycantrophy
+2. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) which adds new mage archetypes to the game
+3. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
+4. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
+5. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
+6. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
+7. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
+8. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
+9. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
+10. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters
+11. [Reqliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723) overhauls a lot of unique items and artifacts to make the gameplay feel fresh
+12. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type. You will be doing less damage to draugr for example by using frost spells on them
 
 ### Quest and Encounter Mods
 
