@@ -46,4 +46,4 @@ Only follow whats selected. Ignore what isn't selected
 
 ## Step 8
 
-You are done. Head back to the post installation steps. You can close reshade now.
+You are done. Head back to the post installation steps. You can close reshade now
