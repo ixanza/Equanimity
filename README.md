@@ -16,7 +16,6 @@
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Reshade](#reshade)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [ENB](#enb)
   - [How to start up Equanimity](#how-to-start-up-equanimity)
@@ -123,10 +122,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
-
-### Reshade
-
-If you plan to use the default ENB included with this folder, [Click here for a tutorial on installing Reshade and the needed shaders from it](Reshade%20Installation%20Steps/ReshadeInstallationSteps.md). This isn't required but it makes a huge difference.
 
 ### Copy Game Folder Files
 
@@ -316,7 +311,6 @@ The required MCM options have been automated for you. Enjoy the game or tweak th
 
 These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
 
-- Better Vampires - Feed: B
 - Immersive HUD - Toggle HUD: X
 - Predator Vision - Hunter's Nightvision: V
 - Predator Vision - Hunter's Predator Vision: H
