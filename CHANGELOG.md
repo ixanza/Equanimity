@@ -1,5 +1,21 @@
 # Changelog
 
+## 3.3.1
+
+### Released at: `1/11/2020`
+
+### Updated
+
+- G.R.I.M v1.32
+- Scion v1.0.1
+- Seranaholic - v1.84
+- Undeath - Classical Lichdom v2.0
+- Valerica v1.84
+
+### Custom Tweaks and Fixes
+
+- Fixed all the children's clothes being overwritten
+
 ## 3.3.0
 
 ### Released at: `1/11/2020`
