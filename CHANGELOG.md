@@ -1,5 +1,19 @@
 # Changelog
 
+## 3.4.1
+
+### Released at: `7/11/2020`
+
+### Updated
+
+- Guard Dialog Overhaul SE v2.14
+- Serana Dialog Addon v2.0
+- Snowberries by Mari v1.3
+
+### Custom Tweaks and Fixes
+
+- Removed 1 conflicting tree with Helgen Reborn
+
 ## 3.4.0
 
 ### Released at: `7/11/2020`
