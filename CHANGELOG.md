@@ -1,5 +1,87 @@
 # Changelog
 
+## 3.4.0
+
+### Released at: `7/11/2020`
+
+### This update requires a new save
+
+### Added
+
+- Aspens Ablaze
+- Blacksmith Forge Water Fix xEdit Script
+- FloraFixer - Mutagen Patcher and Data
+- Hide Those Futile Quests 64
+- High Poly Vanilla Hair
+- Magic Runes HD
+- Remiros' Dragonborn Alcohol HD
+- Sacred Trees
+- Septentrional Landscapes SE
+- Song of the Green - Auri
+- Song of the Green - Auri Lenka Replacer
+- Trees Addon SE
+
+### Updated
+
+- Ave's Interesting NPCs Jewelry Replacer v1.0.1
+- Briraka's Draugr Overhaul v3.0
+- Embershard Mine - Revisited v1.1.1
+- ENBSeries v448
+- G.R.I.M. v1.5.1
+- More DBM Shipping Crates v1.1
+- Scion v1.0.3
+- Serana Dialogue Addon v1.9.6
+- Seranaholic v1.84
+- Snowberries by Mari v1.2
+- Synthesis v0.10.13
+- Unofficial Project AHO - Bugfix and Improvement Patch v1.6
+- White River Watch - Revisited v1.0.2
+
+### Removed
+
+- PrivateProfileRedirector SE - Faster game start (INI file cacher)
+- Realistic Aspen Trees - Replaced with Aspens Ablaze
+- Simple Offence Suppression
+
+### Custom Tweaks and Fixes
+
+- Adjusted wordings of Simple Bound Weapon Expansion books to match Mysticism's wordings
+- Fixed an issue where consuming health/magicka/stamina potions would dispel all other potion effects
+- Fixed Brynjolf's face
+- Fixed the double plaque for Arniel in the college of winterhold
+- Removed Speed and Reach Fixes from the Synthesis Patch as enemies were getting too easy to kite around in melee
+- Removed Ultimate and Extreme potions from Enemy (R)evolution of Skyrim
+
+## 3.3.2
+
+### Released at: `2/11/2020`
+
+### Added
+
+- BoneMaster (ACTUALLY ADDED THIS TIME)
+- Pandorable's Lethal Ladies - Only Karliah
+- Vampire Facial Reclamation
+
+### Updated
+
+- Enemy (R)evolution of Skyrim v1.76.5
+- Elegant Beauty Stunning Eyes Remastered v2.1
+- Eeekie's Enhanced NPCs v2.0.1
+- Simple Offence Suppression v1.1
+- Scion v1.0.2
+- Unofficial Project AHO - Bugfix and Improvement Patch v1.5
+- Undeath - Classical Lichdom v2.01
+
+### Removed
+
+- Expressive Facegen Morphs - Re-added the high poly no sunken vampire and also this caused the weird ass inflation of the face which made every preset near unusuable
+
+### Custom Tweaks and Fixes
+
+- Regenerated DynDOLOD
+- Tweaked BoneMaster's Health regen from 1 to 0.5
+- Tweaked some expert/master level triumvirate spells to be weaker/ more inline with Mysticism. This will be an ongoing thing to slowly make everything more balanced
+
 ## 3.3.1
 
 ### Released at: `1/11/2020`
@@ -20,7 +102,7 @@
 
 ### Released at: `1/11/2020`
 
-## This update requires a new save
+### This update requires a new save
 
 ### Added
 
