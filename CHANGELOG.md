@@ -12,6 +12,7 @@
 - Crosshair-aligned Crossbow
 - Deadly Spell Impacts
 - Deadly Spell Impacts Transparency Fix for ENB
+- Equip Enchantment Fix
 - Loki's Wade in Water
 - No Grass in Objects
 - Relics of Hyrule SE - A DLC Scale Zelda Mod
@@ -32,7 +33,6 @@
 - Briraka's Draugr Overhaul v3.0.1
 - Dear Diary v2.2.5
 - Dwemer Gates Don't Reset v1.2.4
-- Embershard Mine Revisited v1.1.2
 - Embershard Mine Revisited v1.1.3
 - EVG Conditional Idles v1.4
 - Lanterns Of Skyrim II v3.0.0
@@ -40,6 +40,7 @@
 - Legacy of the Dragonborn Patches v2.4.1
 - Legacy of the Dragonborn v5.4.4
 - Missives - Experience Patch v1.06
+- Unofficial Project AHO - Bugfix and Improvement Patch v1.7.1
 - Reliquary of Myth v3.6.2
 - Rudy ENB for Cathedral Weathers - Zangdar's Edit
 - Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor 1.0j
@@ -76,7 +77,7 @@
 - Fixed tree pop in for Trees Addons
 - Limited conjuring dremoras to level 40 mages and up. Previously this was level 15-40
 - Made Dragonrend not be affected by magic resist
-- Made Serana and Valerica use the default female body instead of their custom nude bodies
+- Made Serana, Valerica and Ezra use the default female body instead of their custom nude bodies
 - Potions from Project AHO now restore health, magicka or stamina over time rather than be instant
 - Reduced the available shouts distributed by Enemy (R)evolution of Skyrim
 - Removed clipping tree in Ravenscorn Spire exterior
