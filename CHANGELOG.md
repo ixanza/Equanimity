@@ -1,5 +1,89 @@
 # Changelog
 
+## 3.5.0
+
+### Released at: `Unreleased`
+
+### This update requires a new save
+
+### Added
+
+- Cloaks of Skyrim Retextured SE
+- Crosshair-aligned Crossbow
+- Deadly Spell Impacts
+- Deadly Spell Impacts Transparency Fix for ENB
+- Loki's Wade in Water
+- No Grass in Objects
+- Relics of Hyrule SE - A DLC Scale Zelda Mod
+- Remiros' Ebony Blade HD
+- Remiros' Hrothmund's Axe HD
+- RUSTIC MAPS
+- SD's Horn Candles SE
+- SSE Gameplay Tweaks
+- The Elder Scrolls Legends - Loading Screens
+- The Gifts of Akatosh - Note just the textures to override LOTD's downscaled textures
+- Thieves Night On The Town - Tnott
+- Toccata Elisif Replacer
+  
+### Updated
+
+- Bleak Falls Barrow Revisited v1.2.1
+- Bright Snow Fix for ENB v1.1
+- Briraka's Draugr Overhaul v3.0.1
+- Dear Diary v2.2.5
+- Dwemer Gates Don't Reset v1.2.4
+- Embershard Mine Revisited v1.1.2
+- Embershard Mine Revisited v1.1.3
+- EVG Conditional Idles v1.4
+- Lanterns Of Skyrim II v3.0.0
+- Legacy of the Dragonborn - The Curator's Companion v4.0.0
+- Legacy of the Dragonborn Patches v2.4.1
+- Legacy of the Dragonborn v5.4.4
+- Missives - Experience Patch v1.06
+- Reliquary of Myth v3.6.2
+- Rudy ENB for Cathedral Weathers - Zangdar's Edit
+- Rudy HQ - More Lights for ENB SE - Daedric Weapons and Armor 1.0j
+- Serana Dialogue Addon v2.1.1
+- Skyrim Landscape and Water Fixes v5.7
+- Unofficial Project AHO - Bugfix and Improvement Patch v1.7
+- Ustengrav Revisited v1.1.2
+- Valerica 1.8.4
+
+### Removed
+
+- All Thieves Guild Jobs Concurrently - Replaced wih Thieves Night On The Town - Tnott
+- Believable Weapons - The more I used it the more I didn't like it
+- Cloaks of Skyrim HD - Replaced with Elsopa's Cloaks of Skyrim Retextured SE
+- Enhanced Atronachs - With Leveling and Luminosity - Causes quite a few crashes due to the luminosity effect
+- Honed Metal - Mod is a ticking crashlog generator waiting to happen
+- MAPS - Replaced with the SE version Rustic MAPS
+- Mysticism - Enhanced Atronachs Patch
+- Unofficial Project AHO Patch - Not needed with the new Bugfix and Improvement Patch
+
+### Custom Tweaks and Fixes
+
+- Bonemaster Skeletons no longer benefit from Know Your Enemy perks. This should make them less resilient overall
+- Fixed a certain shade in kilkreath ruins having 30 HP (thanks MLU)
+- Fixed clipping door in Ravenscorn Spire exterior
+- Fixed Dark Face issue in certain OBIS Bandits
+- Fixed descripion of Warlock's Ring from LOTD
+- Fixed floating banners in valtheim towers
+- Fixed floating lights in the first area of Bleakfalls Barrow
+- Fixed floating rock at bleakwind basin
+- Fixed Knight of Chorrol Helmet being missing
+- Fixed rocks behind the burned down house in Morthal causing weird pathing issues during a quest
+- Fixed the beam blocking the middle room in Embershard Mine Revisited
+- Fixed tree pop in for Trees Addons
+- Limited conjuring dremoras to level 40 mages and up. Previously this was level 15-40
+- Made Dragonrend not be affected by magic resist
+- Made Serana and Valerica use the default female body instead of their custom nude bodies
+- Potions from Project AHO now restore health, magicka or stamina over time rather than be instant
+- Reduced the available shouts distributed by Enemy (R)evolution of Skyrim
+- Removed clipping tree in Ravenscorn Spire exterior
+- Removed OMEGA Populated bandits from Silent Moons Camp, Halted Stream Camp, Valtheim Towers
+- Removed the ability for miraak cultists to shout
+- Revert necromancer amulet's ground mesh so it shows up in the menus now
+
 ## 3.4.1
 
 ### Released at: `7/11/2020`
