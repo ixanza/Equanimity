@@ -13,8 +13,10 @@
 - Crosshair-aligned Crossbow
 - Deadly Spell Impacts
 - Deadly Spell Impacts Transparency Fix for ENB
+- Difficulty Balance
 - Equip Enchantment Fix
 - Flinching - Script Free Edition
+- Item Durability
 - Legacy of the Dragonborn - Blended Roads Patch
 - Loki's Wade in Water
 - No Grass in Objects
@@ -31,6 +33,7 @@
 - The Gifts of Akatosh - Note just the textures to override LOTD's downscaled textures
 - Thieves Night On The Town - Tnott
 - Toccata Elisif Replacer
+- zxlice hitStop SSE - Script Free
   
 ### Updated
 
@@ -62,8 +65,11 @@
 - Bijin Skin - Replaced with Pride of Valhalla
 - Believable Weapons - The more I used it the more I didn't like it
 - Cloaks of Skyrim HD - Replaced with Elsopa's Cloaks of Skyrim Retextured SE
-- Enhanced Atronachs - With Leveling and Luminosity - Causes quite a few crashes due to the luminosity effect
+- Enhanced Atronachs - With Leveling and Luminosity - Causes quite a few crashes due to the luminosity effect. Mysticism also has monarchs which keep atronach's well powerful into the late game
+- Equipment Durability System
 - Honed Metal - Mod is a ticking crashlog generator waiting to happen
+- Honed Metal voiced - See above
+- Horncandles - Replaced with SD's Horn Candles
 - MAPS - Replaced with the SE version Rustic MAPS
 - Mysticism - Enhanced Atronachs Patch
 - Unofficial Project AHO Patch - Not needed with the new Bugfix and Improvement Patch
