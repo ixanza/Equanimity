@@ -2,7 +2,7 @@
 
 ## 3.5.0
 
-### Released at: `Unreleased`
+### Released at: `05/12/2020`
 
 ### This update requires a new save
 
@@ -28,12 +28,14 @@
 - Remiros' Hrothmund's Axe HD
 - RUSTIC MAPS
 - SD's Horn Candles SE
+- SSE Gameplay Tweaks
 - Tempered Skin for Males
 - The Elder Scrolls Legends - Loading Screens
 - The Gifts of Akatosh - Note just the textures to override LOTD's downscaled textures
 - Thieves Night On The Town - Tnott
 - Toccata Elisif Replacer
 - zxlice hitStop SSE - Script Free
+- Yggdrasil Music - Optional Addon, enable it and the custom patch below it if you want custom music. Don't modify where it loads on the right. Let them load dead last
   
 ### Updated
 
