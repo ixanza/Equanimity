@@ -214,6 +214,8 @@ Equanimity comes with a wide variety of new quest and encounters. A few are list
 
 [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) sends you off on a quest to obtain the coveted gray cowl. While thieving around you will receive a vision that takes you on this quest to retrieve the cowl.
 
+[Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244) integrates quite a fair amount of content from the Zelda universe that surprisingly doesn't feel out of place. There are no quests or markers to lead you on your way. Keep an eye and an ear open for glowing fairies and tinkling noises as those mark most locations of Hyrule content.
+
 Equanimity also has a lot of modified vanilla quests such as:
 
 1. [Save the Icerunner - Lights Out Alternate Route](https://www.nexusmods.com/skyrimspecialedition/mods/34681)
