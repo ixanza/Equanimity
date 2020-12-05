@@ -8,19 +8,25 @@
 
 ### Added
 
+- Blended Roads Redone SE
 - Cloaks of Skyrim Retextured SE
 - Crosshair-aligned Crossbow
 - Deadly Spell Impacts
 - Deadly Spell Impacts Transparency Fix for ENB
 - Equip Enchantment Fix
+- Flinching - Script Free Edition
+- Legacy of the Dragonborn - Blended Roads Patch
 - Loki's Wade in Water
 - No Grass in Objects
+- OnHit Animations Framework - SSE
+- Pride of Valhalla
+- Rally's Blackreach Mushrooms
 - Relics of Hyrule SE - A DLC Scale Zelda Mod
 - Remiros' Ebony Blade HD
 - Remiros' Hrothmund's Axe HD
 - RUSTIC MAPS
 - SD's Horn Candles SE
-- SSE Gameplay Tweaks
+- Tempered Skin for Males
 - The Elder Scrolls Legends - Loading Screens
 - The Gifts of Akatosh - Note just the textures to override LOTD's downscaled textures
 - Thieves Night On The Town - Tnott
@@ -53,6 +59,7 @@
 ### Removed
 
 - All Thieves Guild Jobs Concurrently - Replaced wih Thieves Night On The Town - Tnott
+- Bijin Skin - Replaced with Pride of Valhalla
 - Believable Weapons - The more I used it the more I didn't like it
 - Cloaks of Skyrim HD - Replaced with Elsopa's Cloaks of Skyrim Retextured SE
 - Enhanced Atronachs - With Leveling and Luminosity - Causes quite a few crashes due to the luminosity effect
@@ -60,6 +67,7 @@
 - MAPS - Replaced with the SE version Rustic MAPS
 - Mysticism - Enhanced Atronachs Patch
 - Unofficial Project AHO Patch - Not needed with the new Bugfix and Improvement Patch
+- Vitruvia - Replaced with Tempered Skins for Males
 
 ### Custom Tweaks and Fixes
 
@@ -80,6 +88,7 @@
 - Made Serana, Valerica and Ezra use the default female body instead of their custom nude bodies
 - Potions from Project AHO now restore health, magicka or stamina over time rather than be instant
 - Reduced the available shouts distributed by Enemy (R)evolution of Skyrim
+- Reinstalled CBBE with nevernude instead of underwear as it was standing out too much
 - Removed clipping tree in Ravenscorn Spire exterior
 - Removed OMEGA Populated bandits from Silent Moons Camp, Halted Stream Camp, Valtheim Towers
 - Removed the ability for miraak cultists to shout
