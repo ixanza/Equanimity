@@ -1,5 +1,58 @@
 # Changelog
 
+## 3.6.0
+
+### Released at: `Unreleased`
+
+### This update requires a new save
+
+### Added
+
+- Retimed Hitframes (Tentatively, have not tested)
+- Blackreach Tentacle Mesh Fix
+- Dragonmail Cuirass Enhanced
+- Skyrim Outfit System SE Revived
+- Stagger Direction Fix
+- DweFarm01 Mesh Replacer
+- Improved Rain and Fog for Cathedral Weathers (Tentatively, have not tested)
+- Beards of Power
+- Animated Armoury
+- Animated Armoury - Legacy of Dragonborn Displays
+- Animated Armoury Vigilant Patch
+
+### Updated
+
+- No Grass in Objects v6
+- Spell Perk Item Distributor v4.0
+- Unofficial Skyrim Special Edition Patch v4.2.4a
+- Skyrim Landscape and Water Fixes v5.8
+- Enhanced Vanilla Trees v2.1
+- Immersive Fort Dawnguard v1.2
+- Reliquary of Myth v3.6.3
+- Adamant - A Perk Overhaul v4.2.4
+- OnHit Animations Framework - SSE v1.13
+- Complete Crafting Overhaul Remastered v2.2.1
+- Triumvirate v1.7.0
+- zxlice hitStop SSE - Script Free v0.9.3a
+- Flinching - Script Free Edition v1.3.1
+
+### Removed
+
+- Relics of Hyrule - Tried it. Unfortunately it doesn't fit as this list is mainly centered around LOTD
+- Ultimate Combat - this makes melee actually really easy as you can animation cancel into blocking like whenever you want. Plus this also broke some spells casting on ground
+- All Geared up Derivative - As great as this mod is. I only ever used it for Dual Sheathe. Plus it patches Skeletons and I have reasons to believe this is the cause of all the skeleton crashes
+- Trees Addon SE - As good as the trees are. They're incredibly FPS heavy. Sorry to those that liked it.
+- All Geared up Derivative Patches - Removed AllGUD
+- FloraFixer - Attaches lots of scripts to plants, Leads to save bloat, unsure how detrimental it is long run
+
+### Custom Tweaks and Fixes
+
+- Changed Twin Secrets from Adamant from Setting the maximum number of enchantments to 2 to adding + 1 to the maximum number of enchantments. This allows the Visage Set from Legacy of the Dragonborn to properly allow 3 enchantments on an item again.
+- Adjusted various summermyst leveled lists, summermyst enchantments should show up more now
+- Adjusted dragon priest leveled list to carry forward SAFO's changes
+- Forwarded USSEP changes where possible to Aspens Ablaze
+- Forwarded USSEP changes where possible to Enhanced Landscapes
+
 ## 3.5.0
 
 ### Released at: `05/12/2020`
