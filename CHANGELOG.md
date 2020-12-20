@@ -19,6 +19,10 @@
 - Animated Armoury
 - Animated Armoury - Legacy of Dragonborn Displays
 - Animated Armoury Vigilant Patch
+- Serana Re-Imagined
+- Hood Plus Hair for Serana Re-Imagined
+- Harvestable Mammoth Skulls Patches
+- Enhanced Reanimation
 
 ### Updated
 
@@ -35,15 +39,18 @@
 - Triumvirate v1.7.0
 - zxlice hitStop SSE - Script Free v0.9.3a
 - Flinching - Script Free Edition v1.3.1
+- Dwemer Gates Don't Reset v1.2.5
 
 ### Removed
 
 - Relics of Hyrule - Tried it. Unfortunately it doesn't fit as this list is mainly centered around LOTD
 - Ultimate Combat - this makes melee actually really easy as you can animation cancel into blocking like whenever you want. Plus this also broke some spells casting on ground
 - All Geared up Derivative - As great as this mod is. I only ever used it for Dual Sheathe. Plus it patches Skeletons and I have reasons to believe this is the cause of all the skeleton crashes
-- Trees Addon SE - As good as the trees are. They're incredibly FPS heavy. Sorry to those that liked it.
+- Trees Addon SE - As good as the trees are. They're incredibly FPS heavy. Sorry to those that liked it
 - All Geared up Derivative Patches - Removed AllGUD
 - FloraFixer - Attaches lots of scripts to plants, Leads to save bloat, unsure how detrimental it is long run
+- Seranaholic - Replaced with Serana Re-Imagined
+- Hood Plus Hair for Seranaholic - Replaced with Hood Plus Hair for Serana Re-Imagined
 
 ### Custom Tweaks and Fixes
 
@@ -52,6 +59,12 @@
 - Adjusted dragon priest leveled list to carry forward SAFO's changes
 - Forwarded USSEP changes where possible to Aspens Ablaze
 - Forwarded USSEP changes where possible to Enhanced Landscapes
+- Adjusted Weapon Lists of Orcs in Strongholds. Now they only use Orcish weapons and nothing more or less
+- Adjusted Weapon Lists of Guards to accomodate for Animated Armoury
+- Skeletal Dragon is now a bit scarier, leveled increased to 50, health offset increased by 400, shouts are a bit stronger
+- Removed Disarm Shouts from Draugr. If you encounter any please report it as a bug
+- All mammoth skulls found in the wild should now be harvestable. Let me know if you find any that aren't. The ones in the museum added by wintersun aren't meant to be harvested
+- Fixed Dragons being able to spawn inside Windhelm
 
 ## 3.5.0
 
