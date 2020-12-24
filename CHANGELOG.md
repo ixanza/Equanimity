@@ -14,21 +14,25 @@
 - Skyrim Outfit System SE Revived
 - Stagger Direction Fix
 - DweFarm01 Mesh Replacer
-- Improved Rain and Fog for Cathedral Weathers (Tentatively, have not tested)
 - Beards of Power
 - Animated Armoury
-- Animated Armoury - Legacy of Dragonborn Displays
 - Animated Armoury Vigilant Patch
 - Serana Re-Imagined
 - Hood Plus Hair for Serana Re-Imagined
 - Harvestable Mammoth Skulls Patches
 - Enhanced Reanimation
+- Jazbay by Mari
+- Guards Armor Replacer - Re-added as we got a fix to the invisible hands in New Legion
+- New Legion - Re-added as we got a fix to the invisible hands
+- Unplayable Faction Armor - Re-added as we got a fix to the invisible hands in New Legion
+- Unplayable Faction Armor - OBIS Patch
+- Unplayable Faction Armor - Vigilant Patch
 
 ### Updated
 
 - No Grass in Objects v6
 - Spell Perk Item Distributor v4.0
-- Unofficial Skyrim Special Edition Patch v4.2.4a
+- Unofficial Skyrim Special Edition Patch v4.2.4b
 - Skyrim Landscape and Water Fixes v5.8
 - Enhanced Vanilla Trees v2.1
 - Immersive Fort Dawnguard v1.2
@@ -38,8 +42,11 @@
 - Complete Crafting Overhaul Remastered v2.2.1
 - Triumvirate v1.7.0
 - zxlice hitStop SSE - Script Free v0.9.3a
-- Flinching - Script Free Edition v1.3.1
 - Dwemer Gates Don't Reset v1.2.5
+- Alternate Start - Live Another Life - SSE v4.1.4
+- Wyrmstooth v1.19 Beta
+- Legacy of the Dragonborn - The Curators Companion v4.1.0
+- Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
 
 ### Removed
 
@@ -51,6 +58,11 @@
 - FloraFixer - Attaches lots of scripts to plants, Leads to save bloat, unsure how detrimental it is long run
 - Seranaholic - Replaced with Serana Re-Imagined
 - Hood Plus Hair for Seranaholic - Replaced with Hood Plus Hair for Serana Re-Imagined
+- Flinching - Script Free Edition - Breaks Mysticism Skeletons apparently
+- Identity Crisis and the LOTD patch - No longer supported by Curator's Companion.
+- ESF Companions - Swapped to the Requirements only version - Trying to resolve issues with the quests and Growl
+- Requiem - (lel, removed the one piece of texture)
+- Skyrim Knights - Replaced with Guards Armor Replacer
 
 ### Custom Tweaks and Fixes
 
