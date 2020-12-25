@@ -2,81 +2,86 @@
 
 ## 3.6.0
 
-### Released at: `Unreleased`
+### Released at: `25/12/2020`
 
 ### This update requires a new save
 
 ### Added
 
-- Retimed Hitframes (Tentatively, have not tested)
-- Blackreach Tentacle Mesh Fix
-- Dragonmail Cuirass Enhanced
-- Skyrim Outfit System SE Revived
-- Stagger Direction Fix
-- DweFarm01 Mesh Replacer
-- Beards of Power
 - Animated Armoury
 - Animated Armoury Vigilant Patch
-- Serana Re-Imagined
-- Hood Plus Hair for Serana Re-Imagined
-- Harvestable Mammoth Skulls Patches
+- Beards of Power
+- Blackreach Tentacle Mesh Fix
+- Dragonmail Cuirass Enhanced
+- DweFarm01 and DweFarm02 Mesh Fix Replacer
+- Ecotone Dual Sheathe
 - Enhanced Reanimation
+- Guards Armor Replacer - Re-added as we got a fix to the invisible hands
+- Harvestable Mammoth Skulls Patches
+- Hood Plus Hair for Serana Re-Imagined
 - Jazbay by Mari
-- Guards Armor Replacer - Re-added as we got a fix to the invisible hands in New Legion
 - New Legion - Re-added as we got a fix to the invisible hands
-- Unplayable Faction Armor - Re-added as we got a fix to the invisible hands in New Legion
+- NordwarUA's Race Armor Extension - Re-added as we got a fix to the invisible hands
+- Retimed Hitframes
+- Serana Re-Imagined
+- Skyrim Outfit System SE Revived
+- Stagger Direction Fix
 - Unplayable Faction Armor - OBIS Patch
+- Unplayable Faction Armor - Re-added as we got a fix to the invisible hands
 - Unplayable Faction Armor - Vigilant Patch
 
 ### Updated
 
-- No Grass in Objects v6
-- Spell Perk Item Distributor v4.0
-- Unofficial Skyrim Special Edition Patch v4.2.4b
-- Skyrim Landscape and Water Fixes v5.8
+- Adamant - A Perk Overhaul v4.2.4
+- Alternate Start - Live Another Life - SSE v4.1.4
+- Complete Crafting Overhaul Remastered v2.2.1
+- Dwemer Gates Don't Reset v1.2.5
+- ELFX Fixes v5.5
 - Enhanced Vanilla Trees v2.1
 - Immersive Fort Dawnguard v1.2
-- Reliquary of Myth v3.6.3
-- Adamant - A Perk Overhaul v4.2.4
-- OnHit Animations Framework - SSE v1.13
-- Complete Crafting Overhaul Remastered v2.2.1
-- Triumvirate v1.7.0
-- zxlice hitStop SSE - Script Free v0.9.3a
-- Dwemer Gates Don't Reset v1.2.5
-- Alternate Start - Live Another Life - SSE v4.1.4
-- Wyrmstooth v1.19 Beta
-- Legacy of the Dragonborn - The Curators Companion v4.1.0
 - Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
+- Legacy of the Dragonborn - The Curators Companion v4.1.0
+- No Grass in Objects v6
+- OnHit Animations Framework - SSE v1.13
+- Reliquary of Myth v3.6.3
+- Skyrim Landscape and Water Fixes v5.8
+- Spell Perk Item Distributor v4.0
+- Stagger Direction Fix - SSE v0.9.5a
+- The Wheels of Lull - Unwound Edition v5.0.0
+- Triumvirate v1.7.0
+- Unofficial Skyrim Special Edition Patch v4.2.4b
+- Wyrmstooth v1.19 Beta
+- zxlice hitStop SSE - Script Free v0.9.3a
 
 ### Removed
 
-- Relics of Hyrule - Tried it. Unfortunately it doesn't fit as this list is mainly centered around LOTD
-- Ultimate Combat - this makes melee actually really easy as you can animation cancel into blocking like whenever you want. Plus this also broke some spells casting on ground
 - All Geared up Derivative - As great as this mod is. I only ever used it for Dual Sheathe. Plus it patches Skeletons and I have reasons to believe this is the cause of all the skeleton crashes
-- Trees Addon SE - As good as the trees are. They're incredibly FPS heavy. Sorry to those that liked it
 - All Geared up Derivative Patches - Removed AllGUD
-- FloraFixer - Attaches lots of scripts to plants, Leads to save bloat, unsure how detrimental it is long run
-- Seranaholic - Replaced with Serana Re-Imagined
-- Hood Plus Hair for Seranaholic - Replaced with Hood Plus Hair for Serana Re-Imagined
-- Flinching - Script Free Edition - Breaks Mysticism Skeletons apparently
-- Identity Crisis and the LOTD patch - No longer supported by Curator's Companion.
 - ESF Companions - Swapped to the Requirements only version - Trying to resolve issues with the quests and Growl
-- Requiem - (lel, removed the one piece of texture)
+- Flinching - Script Free Edition - Breaks Mysticism Skeletons apparently
+- FloraFixer - Attaches lots of scripts to plants, Leads to save bloat, unsure how detrimental it is long run
+- Hood Plus Hair for Seranaholic - Replaced with Hood Plus Hair for Serana Re-Imagined
+- Identity Crisis and the LOTD patch - No longer supported by Curator's Companion.
+- Relics of Hyrule - Tried it. Unfortunately it doesn't fit as this list is mainly centered around LOTD
+- Requiem - (kek, removed the one piece of texture)
+- Seranaholic - Replaced with Serana Re-Imagined
 - Skyrim Knights - Replaced with Guards Armor Replacer
+- Trees Addon SE - As good as the trees are. They're incredibly FPS heavy. Sorry to those that liked it
+- Ultimate Combat - this makes melee actually really easy as you can animation cancel into blocking like whenever you want. Plus this also broke some spells casting on ground
 
 ### Custom Tweaks and Fixes
 
-- Changed Twin Secrets from Adamant from Setting the maximum number of enchantments to 2 to adding + 1 to the maximum number of enchantments. This allows the Visage Set from Legacy of the Dragonborn to properly allow 3 enchantments on an item again.
-- Adjusted various summermyst leveled lists, summermyst enchantments should show up more now
 - Adjusted dragon priest leveled list to carry forward SAFO's changes
+- Adjusted various summermyst leveled lists, summermyst enchantments should show up more now
+- Adjusted Weapon Lists of Guards to accomodate for Animated Armoury
+- Adjusted Weapon Lists of Orcs in Strongholds. Now they only use Orcish weapons and nothing more or less
+- All mammoth skulls found in the wild should now be harvestable. Let me know if you find any that aren't. The ones in the museum added by wintersun aren't meant to be harvested
+- Changed Twin Secrets from Adamant from Setting the maximum number of enchantments to 2 to adding + 1 to the maximum number of enchantments. This allows the Visage Set from Legacy of the Dragonborn to properly allow 3 enchantments on an item again.
+- Fixed Dragons being able to spawn inside Windhelm
 - Forwarded USSEP changes where possible to Aspens Ablaze
 - Forwarded USSEP changes where possible to Enhanced Landscapes
-- Adjusted Weapon Lists of Orcs in Strongholds. Now they only use Orcish weapons and nothing more or less
-- Adjusted Weapon Lists of Guards to accomodate for Animated Armoury
-- Skeletal Dragon is now a bit scarier, leveled increased to 50, health offset increased by 400, shouts are a bit stronger
 - Removed Disarm Shouts from Draugr. If you encounter any please report it as a bug
-- All mammoth skulls found in the wild should now be harvestable. Let me know if you find any that aren't. The ones in the museum added by wintersun aren't meant to be harvested
-- Fixed Dragons being able to spawn inside Windhelm
+- Skeletal Dragon is now a bit scarier, leveled increased to 50, health offset increased by 400, shouts are a bit stronger
 
 ## 3.5.0
 
