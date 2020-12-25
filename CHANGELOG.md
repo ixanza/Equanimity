@@ -38,6 +38,7 @@
 - Dwemer Gates Don't Reset v1.2.5
 - ELFX Fixes v5.5
 - Enhanced Vanilla Trees v2.1
+- Equip Enchantment Fix v1.2.1
 - Immersive Fort Dawnguard v1.2
 - Legacy of The Dragonborn - museum dome sunlight and shadows v0.4
 - Legacy of the Dragonborn - The Curators Companion v4.1.0
@@ -77,6 +78,7 @@
 - Adjusted Weapon Lists of Orcs in Strongholds. Now they only use Orcish weapons and nothing more or less
 - All mammoth skulls found in the wild should now be harvestable. Let me know if you find any that aren't. The ones in the museum added by wintersun aren't meant to be harvested
 - Changed Twin Secrets from Adamant from Setting the maximum number of enchantments to 2 to adding + 1 to the maximum number of enchantments. This allows the Visage Set from Legacy of the Dragonborn to properly allow 3 enchantments on an item again.
+- Edits to Rudy ENB - Disabled Letterbox, Disabled Depth of Field, Disabled ENB AO in favor of a custom tweaked game AO. If you want to re-enable this just enable it in enbseries.ini
 - Fixed Dragons being able to spawn inside Windhelm
 - Forwarded USSEP changes where possible to Aspens Ablaze
 - Forwarded USSEP changes where possible to Enhanced Landscapes
