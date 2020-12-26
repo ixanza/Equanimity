@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.6.0.1
+
+### Released at: `26/12/2020`
+
+### Removed
+
+- Inn Room Costs - Temporary until the mod is back up
+
 ## 3.6.0
 
 ### Released at: `25/12/2020`

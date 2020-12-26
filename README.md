@@ -130,6 +130,7 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 ### ENB
 
 Equanimity comes configured with [Rudy ENB For Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+The ENB AO, Letterbox and Depth of Field have been disabled due to preference and performance reasons. Feel free to re-enable them should you desire.
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
@@ -177,14 +178,13 @@ Various other mods are used to flesh out all aspects of the game as well such as
 2. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) which adds new mage archetypes to the game
 3. [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608) which overhauls the crafting component of the game
 4. [Skyrim Revamped - Complete Enemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14598) which overhauls NPC and makes bosses harder
-5. [Ultimate Combat](https://www.nexusmods.com/skyrimspecialedition/mods/17196) introduces new enemy AI which keeps the game fresh
-6. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
-7. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
-8. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
-9. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
-10. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters
-11. [Reqliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723) overhauls a lot of unique items and artifacts to make the gameplay feel fresh
-12. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type. You will be doing less damage to draugr for example by using frost spells on them
+5. [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506) adds a religion aspect to the game in the form of worshipping aedras or daedras and getting rewarded for it
+6. [OMEGA Updated](https://www.nexusmods.com/skyrimspecialedition/mods/33718) is an overhaul around Morrowloot Ultimate which blends well with mods like Skyrim Revamped, Guards Armor Replacer and a lot of other stuff
+7. [Spell Perk Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/36869) and [Enemy (R)evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228) allows for enemies to use spells and perks from mod added stuff
+8. [Equipment Durability System](https://www.nexusmods.com/skyrimspecialedition/mods/19023) adds a durability system to the temperness of your equipment which can be viewed on the bottom left of the screen
+9. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters
+10. [Reqliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Unique Item Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/33723) overhauls a lot of unique items and artifacts to make the gameplay feel fresh
+11. [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807) adds trait based weakness and resistances based on armor and enemy type. You will be doing less damage to draugr for example by using frost spells on them
 
 ### Quest and Encounter Mods
 
