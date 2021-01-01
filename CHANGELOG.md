@@ -1,5 +1,25 @@
 # Changelog
 
+## 3.6.1
+
+### Released at: `02/01/2021`
+
+### Updated
+
+- Hood Plus Hair for Serana Re-Imagined v1.2a
+- Wheels of Lull - Reuploaded same version
+
+### Removed
+
+- Nemesis PCEA - We don't use it
+
+### Custom Tweaks and Fixes
+
+- Enabled a few missing conflict resolution patches
+- Fixed Bonemaster skeletons being invisible
+- Fixed the bow draw animation while sneaking i think
+- Properly fixed being able to animation cancel in first person
+
 ## 3.6.0.1
 
 ### Released at: `26/12/2020`
